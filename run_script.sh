@@ -6,8 +6,7 @@ delay=30
 for ((attempt=1; attempt<=max_retries; attempt++)); do
     echo "Attempt $attempt..."
     
-    # Your command here; replace the echo with your actual command
-    if sudo python3 demo_server.py; then
+    if sudo python3 server.py; then
         echo "Task completed successfully!"
         exit 0
     else
