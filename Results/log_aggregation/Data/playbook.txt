@@ -1,0 +1,56 @@
+#	MADRID
+python3 log_agg.py ./Data/Madrid_COPY/ ./Data/Madrid_COPY/mad_agg.log
+python3 summary_remote_log.py ./Data/Madrid_COPY/mad_agg.log ./Data/Madrid_COPY/mad_summ.json
+python3 most_used_commands.py ./Data/Madrid_COPY/mad_summ.json ./Data/Madrid_COPY/mad_most_used_comm.json
+python3 most_src_ip.py ./Data/Madrid_COPY/mad_summ.json ./Data/Madrid_COPY/most_src_ip.json
+python3 most_used_directory.py ./Data/Madrid_COPY/mad_agg.log ./Data/Madrid_COPY/mad_most_used_dir.json
+python3 geo_enrichment.py Data/Madrid_COPY/most_src_ip.json Data/Madrid_COPY/madrid_geo.json
+python3 create_map.py Data/Madrid_COPY/madrid_geo.json madrid_map.png
+
+
+#	DALLAS
+python3 log_agg.py ./Data/Dallas_COPY/ ./Data/Dallas_COPY/dal_agg.log
+python3 summary_remote_log.py ./Data/Dallas_COPY/dal_agg.log ./Data/Dallas_COPY/dal_summ.json
+python3 most_used_commands.py ./Data/Dallas_COPY/dal_summ.json ./Data/Dallas_COPY/dal_most_used_comm.json
+python3 most_src_ip.py ./Data/Dallas_COPY/dal_summ.json ./Data/Dallas_COPY/most_src_ip.json
+python3 most_used_directory.py ./Data/Dallas_COPY/dal_agg.log ./Data/Dallas_COPY/dal_most_used_dir.json
+python3 geo_enrichment.py Data/Dallas_COPY/most_src_ip.json Data/Dallas_COPY/Dallas_geo.json
+python3 create_map.py Data/Dallas_COPY/Dallas_geo.json Dallas_map.png
+
+
+
+#	MUMBAI
+python3 log_agg.py ./Data/Mumbai_COPY/ ./Data/Mumbai_COPY/mum_agg.log
+python3 summary_remote_log.py ./Data/Mumbai_COPY/mum_agg.log ./Data/Mumbai_COPY/mum_summ.json
+python3 most_used_commands.py ./Data/Mumbai_COPY/mum_summ.json ./Data/Mumbai_COPY/mum_most_used_comm.json
+python3 most_src_ip.py ./Data/Mumbai_COPY/mum_summ.json ./Data/Mumbai_COPY/most_src_ip.json
+python3 most_used_directory.py ./Data/Mumbai_COPY/mum_agg.log ./Data/Mumbai_COPY/mum_most_used_dir.json
+python3 geo_enrichment.py Data/Mumbai_COPY/most_src_ip.json Data/Mumbai_COPY/Mumbai_geo.json
+python3 create_map.py Data/Mumbai_COPY/Mumbai_geo.json Mumbai_map.png
+
+
+
+#	PROXMOX
+python3 log_agg.py ./Data/Proxmox_COPY/ ./Data/Proxmox_COPY/pro_agg.log
+python3 summary_remote_log.py ./Data/Proxmox_COPY/pro_agg.log ./Data/Proxmox_COPY/pro_summ.json
+python3 most_used_commands.py ./Data/Proxmox_COPY/pro_summ.json ./Data/Proxmox_COPY/pro_most_used_comm.json
+python3 most_src_ip.py ./Data/Proxmox_COPY/pro_summ.json ./Data/Proxmox_COPY/most_src_ip.json
+python3 most_used_directory.py ./Data/Proxmox_COPY/pro_agg.log ./Data/Proxmox_COPY/pro_most_used_dir.json
+python3 geo_enrichment.py Data/Proxmox_COPY/most_src_ip.json Data/Proxmox_COPY/Proxmox_geo.json
+python3 create_map.py Data/Proxmox_COPY/Proxmox_geo.json Proxmox_map.png
+
+
+# GLOBAL 
+python3 log_agg_all.py ./Data/Aggregated/ ./Data/Aggregated/log_all.log
+python3 summary_remote_log.py ./Data/Aggregated/log_all.log ./Data/Aggregated/all_summ.json
+python3 most_used_commands.py ./Data/Aggregated/all_summ.json ./Data/Aggregated/all_most_used_comm.json
+python3 most_src_ip.py ./Data/Aggregated/all_summ.json ./Data/Aggregated/all_most_src_ip.json
+python3 most_used_directory.py ./Data/Aggregated/log_all.log ./Data/Aggregated/all_most_used_dir.json
+python3 unique_commands_per_ip.py ./Data/Aggregated/log_all.log ./Data/Aggregated/unique_commands_per_ip.json
+
+
+
+python3 geo_enrichment.py ./Data/Aggregated/all_most_src_ip.json ./Data/Aggregated/all_geo.json
+python3 create_map.py ./Data/Aggregated/all_geo.json all_map.png
+
+

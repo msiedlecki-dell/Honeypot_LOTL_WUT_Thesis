@@ -1,0 +1,4086 @@
+{
+    "2024-12-07": {
+        "45.148.10.46": {
+            "apt": 152,
+            "rm": 76,
+            "pkill": 76,
+            "mkdir": 76,
+            "curl": 152,
+            "chmod": 76,
+            "systemctl": 228,
+            "history": 76
+        },
+        "45.148.10.203": {
+            "apt": 88,
+            "rm": 44,
+            "pkill": 44,
+            "mkdir": 44,
+            "curl": 88,
+            "chmod": 44,
+            "systemctl": 132,
+            "history": 44
+        },
+        "116.38.53.235": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "210.108.85.147": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "112.120.21.46": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "180.225.93.115": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.41.244.102": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "20.55.16.48": {
+            "uname": 6
+        },
+        "202.69.40.228": {
+            "uname": 1
+        },
+        "122.41.1.12": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "195.178.110.6": {
+            "apt": 68,
+            "rm": 34,
+            "pkill": 34,
+            "mkdir": 34,
+            "curl": 68,
+            "chmod": 34,
+            "systemctl": 102,
+            "history": 34
+        },
+        "116.38.82.130": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "87.120.113.231": {
+            "uname": 3,
+            "echo": 6,
+            "SC": 3,
+            "curl": 3,
+            "if": 3,
+            "then": 3,
+            "3": 6,
+            "do": 3,
+            "break": 3,
+            "done": 3,
+            "cat": 3,
+            "sh": 6,
+            "exec": 3,
+            "else": 3,
+            "fi": 3
+        },
+        "119.68.207.74": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "119.68.175.2": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "116.38.55.238": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "210.206.57.172": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "125.186.58.82": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "58.148.222.137": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.54.245.234": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.48.39.93": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "180.226.74.9": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "49.160.89.162": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "61.36.209.99": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "119.68.185.131": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        }
+    },
+    "2024-12-08": {
+        "87.120.113.231": {
+            "uname": 6,
+            "echo": 12,
+            "SC": 6,
+            "curl": 6,
+            "if": 6,
+            "then": 6,
+            "3": 12,
+            "do": 6,
+            "break": 6,
+            "done": 6,
+            "cat": 6,
+            "sh": 12,
+            "exec": 6,
+            "else": 6,
+            "fi": 6
+        },
+        "122.33.189.3": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "58.149.249.246": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "210.206.101.57": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "61.33.241.233": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "45.148.10.203": {
+            "apt": 54,
+            "rm": 27,
+            "pkill": 27,
+            "mkdir": 27,
+            "curl": 54,
+            "chmod": 27,
+            "systemctl": 81,
+            "history": 27
+        },
+        "218.92.0.132": {
+            "ls": 3
+        },
+        "124.54.248.231": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "116.38.89.114": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "45.148.10.46": {
+            "apt": 160,
+            "rm": 80,
+            "pkill": 80,
+            "mkdir": 80,
+            "curl": 160,
+            "chmod": 80,
+            "systemctl": 240,
+            "history": 80
+        },
+        "122.41.243.208": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "195.178.110.6": {
+            "apt": 174,
+            "rm": 87,
+            "pkill": 87,
+            "mkdir": 87,
+            "curl": 174,
+            "chmod": 87,
+            "systemctl": 261,
+            "history": 87
+        },
+        "182.223.37.51": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.48.113.21": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "180.225.59.141": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "180.227.176.237": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "119.68.39.90": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "182.223.255.206": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "125.189.140.22": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "125.187.222.220": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "180.225.115.243": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.48.11.140": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.48.15.245": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "49.160.112.4": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.48.11.131": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "115.141.51.211": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "1.220.64.218": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "180.225.60.39": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "78.83.184.161": {
+            "scp": 2
+        },
+        "122.41.245.117": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "20.21.136.216": {
+            "uname": 1
+        },
+        "49.175.248.68": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.48.34.3": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "61.32.167.121": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "14.58.14.151": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "180.225.60.45": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "49.160.246.10": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.33.41.195": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "115.141.76.73": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.33.17.144": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "185.188.217.98": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "58.149.239.210": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.54.249.47": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.48.97.167": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "115.141.177.110": {
+            "ifconfig": 1,
+            "uname": 1
+        },
+        "58.75.231.245": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "210.124.173.167": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "211.53.143.114": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "115.141.230.146": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "178.128.161.183": {
+            "uname": 1
+        },
+        "212.45.248.93": {
+            "uname": 4
+        },
+        "180.225.156.143": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "115.141.77.39": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.48.49.102": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "94.19.104.188": {
+            "scp": 2
+        },
+        "116.40.77.66": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.48.48.104": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        }
+    },
+    "2024-12-09": {
+        "124.52.207.165": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "45.148.10.203": {
+            "apt": 50,
+            "rm": 25,
+            "pkill": 25,
+            "mkdir": 25,
+            "curl": 50,
+            "chmod": 25,
+            "systemctl": 75,
+            "history": 25
+        },
+        "193.178.43.254": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "87.120.113.231": {
+            "uname": 5,
+            "echo": 10,
+            "SC": 5,
+            "curl": 5,
+            "if": 5,
+            "then": 5,
+            "3": 10,
+            "do": 5,
+            "break": 5,
+            "done": 5,
+            "cat": 5,
+            "sh": 10,
+            "exec": 5,
+            "else": 5,
+            "fi": 5
+        },
+        "115.141.99.164": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "112.159.193.212": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "115.141.189.166": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "195.178.110.6": {
+            "apt": 466,
+            "rm": 233,
+            "pkill": 233,
+            "mkdir": 233,
+            "curl": 466,
+            "chmod": 233,
+            "systemctl": 699,
+            "history": 233
+        },
+        "218.92.0.132": {
+            "ls": 1
+        },
+        "124.48.54.110": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "180.225.53.92": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.33.3.168": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "90.133.130.57": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "119.68.247.22": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "180.225.207.202": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.56.226.42": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "45.148.10.46": {
+            "apt": 14,
+            "rm": 7,
+            "pkill": 7,
+            "mkdir": 7,
+            "curl": 14,
+            "chmod": 7,
+            "systemctl": 21,
+            "history": 7
+        },
+        "5.38.170.9": {
+            "scp": 2
+        },
+        "116.40.106.142": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.41.245.117": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "197.5.145.150": {
+            "cd": 3,
+            "chattr": 1,
+            "lockr": 1,
+            "rm": 1,
+            "mkdir": 1,
+            "echo": 1,
+            "chmod": 1
+        },
+        "124.55.57.139": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.52.194.210": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "61.39.204.240": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "119.68.157.39": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "115.141.207.114": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "115.141.172.199": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.33.81.152": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        }
+    },
+    "2024-12-10": {
+        "180.227.49.103": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "180.226.28.196": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "189.164.31.215": {
+            "cd": 3,
+            "chattr": 1,
+            "lockr": 1,
+            "rm": 1,
+            "mkdir": 1,
+            "echo": 1,
+            "chmod": 1
+        },
+        "45.148.10.46": {
+            "apt": 46,
+            "rm": 23,
+            "pkill": 23,
+            "mkdir": 23,
+            "curl": 46,
+            "chmod": 23,
+            "systemctl": 69,
+            "history": 23
+        },
+        "180.225.207.203": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.48.4.151": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.39.138.130": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "195.178.110.6": {
+            "apt": 196,
+            "rm": 98,
+            "pkill": 98,
+            "mkdir": 98,
+            "curl": 196,
+            "chmod": 98,
+            "systemctl": 294,
+            "history": 98
+        },
+        "211.60.81.190": {
+            "ifconfig": 1,
+            "uname": 1
+        },
+        "80.216.156.157": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "58.75.228.182": {
+            "ifconfig": 1,
+            "uname": 1
+        },
+        "45.148.10.203": {
+            "apt": 150,
+            "rm": 75,
+            "pkill": 75,
+            "mkdir": 75,
+            "curl": 150,
+            "chmod": 75,
+            "systemctl": 225,
+            "history": 75
+        },
+        "122.33.206.10": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "87.120.113.231": {
+            "uname": 8,
+            "echo": 16,
+            "SC": 8,
+            "curl": 8,
+            "if": 8,
+            "then": 8,
+            "3": 16,
+            "do": 8,
+            "break": 8,
+            "done": 8,
+            "cat": 8,
+            "sh": 16,
+            "exec": 8,
+            "else": 8,
+            "fi": 8
+        },
+        "122.33.222.211": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.33.179.101": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "79.184.47.179": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "115.141.159.195": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "88.138.114.161": {
+            "scp": 2
+        },
+        "58.149.249.253": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "115.141.72.20": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "115.141.30.82": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "115.142.11.215": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "195.178.110.34": {
+            "apt": 44,
+            "rm": 22,
+            "pkill": 22,
+            "mkdir": 22,
+            "curl": 44,
+            "chmod": 22,
+            "systemctl": 66,
+            "history": 22
+        },
+        "124.48.37.51": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 1,
+            "ps": 2,
+            "grep": 2
+        },
+        "211.60.81.54": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "116.40.101.132": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "210.124.179.80": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.41.109.176": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.52.110.119": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "211.118.179.3": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "180.225.223.5": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.56.249.155": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.48.27.22": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "121.130.77.162": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.33.164.234": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.52.245.244": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "220.89.251.133": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "78.189.114.190": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "180.225.156.132": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.33.53.200": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "119.68.7.179": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.33.203.198": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "119.68.175.2": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "119.68.148.107": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "61.37.207.36": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "211.119.232.23": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "125.186.58.100": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.33.81.152": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.41.1.13": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.48.117.30": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "184.83.245.97": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "218.92.0.132": {
+            "ls": 1
+        },
+        "122.38.46.199": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "115.141.25.219": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "210.108.85.147": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "58.75.226.162": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "115.141.107.196": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.33.57.121": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "59.187.75.4": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        }
+    },
+    "2024-12-11": {
+        "122.41.189.130": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "1.219.225.3": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "195.178.110.6": {
+            "apt": 56,
+            "rm": 28,
+            "pkill": 28,
+            "mkdir": 28,
+            "curl": 56,
+            "chmod": 28,
+            "systemctl": 84,
+            "history": 28
+        },
+        "210.206.118.248": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "116.40.119.219": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.33.30.66": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "45.148.10.203": {
+            "apt": 60,
+            "rm": 30,
+            "pkill": 30,
+            "mkdir": 30,
+            "curl": 60,
+            "chmod": 30,
+            "systemctl": 90,
+            "history": 30
+        },
+        "124.52.207.164": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "116.38.114.135": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "87.120.113.231": {
+            "uname": 10,
+            "echo": 20,
+            "SC": 10,
+            "curl": 10,
+            "if": 10,
+            "then": 10,
+            "3": 20,
+            "do": 10,
+            "break": 10,
+            "done": 10,
+            "cat": 10,
+            "sh": 20,
+            "exec": 10,
+            "else": 10,
+            "fi": 10
+        },
+        "84.0.252.21": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "59.23.31.107": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "46.19.143.66": {
+            "apt": 6,
+            "sudo": 4,
+            "lscpu": 2,
+            "echo": 2,
+            "passwd": 2,
+            "curl": 2,
+            "free": 2
+        },
+        "180.225.156.19": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "211.62.141.118": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.48.104.170": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "49.160.246.12": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "61.36.204.131": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.41.124.44": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "116.40.119.213": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "77.105.146.125": {
+            "uname": 5
+        },
+        "211.119.232.8": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "125.186.50.10": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "195.178.110.34": {
+            "apt": 104,
+            "rm": 52,
+            "pkill": 52,
+            "mkdir": 52,
+            "curl": 104,
+            "chmod": 52,
+            "systemctl": 156,
+            "history": 52
+        },
+        "124.48.65.170": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "211.181.150.39": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "185.225.200.154": {
+            "uname": 1
+        },
+        "154.213.187.182": {
+            "cat": 1,
+            "cd": 1,
+            "rm": 1,
+            "curl": 1,
+            "chmod": 1
+        },
+        "64.181.162.154": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "45.148.10.46": {
+            "apt": 6,
+            "rm": 3,
+            "pkill": 3,
+            "mkdir": 3,
+            "curl": 6,
+            "chmod": 3,
+            "systemctl": 9,
+            "history": 3
+        },
+        "122.33.141.210": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "85.218.33.240": {
+            "wget": 4,
+            "sh": 8,
+            "1": 2,
+            "rm": 5,
+            "curl": 1,
+            "cd": 3,
+            "tftp": 3,
+            "uname": 1,
+            "cat": 1,
+            "echo": 1
+        },
+        "49.160.90.8": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.32.248.132": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "115.141.125.74": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "49.160.126.72": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "112.159.217.107": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "58.149.253.83": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "61.36.211.9": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.33.30.94": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        }
+    },
+    "2024-12-12": {
+        "46.19.143.66": {
+            "apt": 15,
+            "sudo": 10,
+            "lscpu": 5,
+            "echo": 5,
+            "passwd": 5,
+            "curl": 5,
+            "free": 5
+        },
+        "87.120.113.231": {
+            "uname": 6,
+            "echo": 12,
+            "SC": 6,
+            "curl": 6,
+            "if": 6,
+            "then": 6,
+            "3": 12,
+            "do": 6,
+            "break": 6,
+            "done": 6,
+            "cat": 6,
+            "sh": 12,
+            "exec": 6,
+            "else": 6,
+            "fi": 6
+        },
+        "104.172.104.224": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "45.148.10.203": {
+            "apt": 114,
+            "rm": 57,
+            "pkill": 57,
+            "mkdir": 57,
+            "curl": 114,
+            "chmod": 57,
+            "systemctl": 171,
+            "history": 57
+        },
+        "121.190.14.247": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "195.178.110.6": {
+            "apt": 56,
+            "rm": 28,
+            "pkill": 28,
+            "mkdir": 28,
+            "curl": 56,
+            "chmod": 28,
+            "systemctl": 84,
+            "history": 28
+        },
+        "178.230.227.174": {
+            "scp": 2
+        },
+        "45.148.10.46": {
+            "apt": 20,
+            "rm": 10,
+            "pkill": 10,
+            "mkdir": 10,
+            "curl": 20,
+            "chmod": 10,
+            "systemctl": 30,
+            "history": 10
+        },
+        "220.178.8.154": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "117.103.147.186": {
+            "scp": 2
+        }
+    },
+    "2024-11-19": {
+        "80.238.125.174": {
+            "vssadmin": 1,
+            "certutil": 2
+        },
+        "157.230.116.150": {
+            "uname": 44,
+            "nproc": 22,
+            "uptime": 22,
+            "nvidia": 22,
+            "grep": 66,
+            "lspci": 22,
+            "display": 22
+        },
+        "119.166.180.26": {
+            "scp": 4
+        },
+        "218.92.0.132": {
+            "ls": 3
+        },
+        "46.19.143.66": {
+            "apt": 21,
+            "sudo": 14,
+            "lscpu": 7,
+            "echo": 7,
+            "passwd": 7,
+            "curl": 7,
+            "free": 7
+        },
+        "87.120.113.231": {
+            "uname": 6,
+            "echo": 12,
+            "SC": 6,
+            "curl": 6,
+            "if": 6,
+            "then": 6,
+            "3": 12,
+            "do": 6,
+            "break": 6,
+            "done": 6,
+            "cat": 6,
+            "sh": 12,
+            "exec": 6,
+            "else": 6,
+            "fi": 6
+        },
+        "88.182.251.194": {
+            "scp": 2
+        }
+    },
+    "2024-11-20": {
+        "37.44.238.68": {
+            "whoami": 213,
+            "cd": 1065,
+            "rm": 639,
+            "wget": 213,
+            "curl": 213,
+            "chmod": 213,
+            "sh": 213
+        },
+        "46.19.143.66": {
+            "apt": 63,
+            "sudo": 42,
+            "lscpu": 21,
+            "echo": 21,
+            "passwd": 21,
+            "curl": 21,
+            "free": 21
+        },
+        "195.178.110.6": {
+            "apt": 86,
+            "rm": 43,
+            "pkill": 43,
+            "mkdir": 43,
+            "curl": 86,
+            "chmod": 43,
+            "systemctl": 129,
+            "history": 43
+        },
+        "87.120.113.231": {
+            "uname": 28,
+            "echo": 56,
+            "SC": 28,
+            "curl": 28,
+            "if": 28,
+            "then": 28,
+            "3": 56,
+            "do": 28,
+            "break": 28,
+            "done": 28,
+            "cat": 28,
+            "sh": 56,
+            "exec": 28,
+            "else": 28,
+            "fi": 28
+        },
+        "195.178.110.34": {
+            "apt": 24,
+            "rm": 12,
+            "pkill": 12,
+            "mkdir": 12,
+            "curl": 24,
+            "chmod": 12,
+            "systemctl": 36,
+            "history": 12
+        },
+        "182.215.66.232": {
+            "ifconfig": 3,
+            "uname": 3,
+            "cat": 6,
+            "ps": 6,
+            "grep": 6,
+            "ls": 3,
+            "echo": 3
+        },
+        "93.121.237.195": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "157.230.116.150": {
+            "uname": 140,
+            "nproc": 70,
+            "uptime": 70,
+            "nvidia": 70,
+            "grep": 210,
+            "lspci": 70,
+            "display": 70
+        },
+        "211.207.120.43": {
+            "ifconfig": 2,
+            "uname": 2,
+            "cat": 4,
+            "ps": 4,
+            "grep": 4,
+            "ls": 2,
+            "echo": 2
+        },
+        "82.65.183.225": {
+            "ifconfig": 2,
+            "uname": 2,
+            "cat": 4,
+            "ps": 4,
+            "grep": 4,
+            "ls": 2,
+            "echo": 2
+        },
+        "180.227.239.244": {
+            "ifconfig": 2,
+            "uname": 2,
+            "cat": 4,
+            "ps": 4,
+            "grep": 4,
+            "ls": 2,
+            "echo": 2
+        },
+        "61.1.105.136": {
+            "wget": 8,
+            "sh": 16,
+            "1": 4,
+            "rm": 10,
+            "curl": 2,
+            "cd": 6,
+            "tftp": 6,
+            "uname": 2,
+            "cat": 2,
+            "echo": 2
+        }
+    },
+    "2024-11-21": {
+        "37.44.238.68": {
+            "whoami": 74,
+            "cd": 370,
+            "rm": 222,
+            "wget": 74,
+            "curl": 74,
+            "chmod": 74,
+            "sh": 74
+        },
+        "87.120.113.231": {
+            "uname": 21,
+            "echo": 42,
+            "SC": 21,
+            "curl": 21,
+            "if": 21,
+            "then": 21,
+            "3": 42,
+            "do": 21,
+            "break": 21,
+            "done": 21,
+            "cat": 21,
+            "sh": 42,
+            "exec": 21,
+            "else": 21,
+            "fi": 21
+        },
+        "46.19.143.66": {
+            "apt": 39,
+            "sudo": 26,
+            "lscpu": 13,
+            "echo": 13,
+            "passwd": 13,
+            "curl": 13,
+            "free": 13
+        },
+        "90.133.130.57": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "92.255.57.132": {
+            "echo": 12
+        },
+        "200.100.26.250": {
+            "scp": 2
+        },
+        "218.92.0.132": {
+            "ls": 1
+        },
+        "144.126.222.68": {
+            "uname": 1
+        },
+        "210.245.54.214": {
+            "scp": 2
+        },
+        "222.118.167.160": {
+            "ifconfig": 2,
+            "uname": 2,
+            "cat": 4,
+            "ps": 4,
+            "grep": 4,
+            "ls": 2,
+            "echo": 2
+        },
+        "220.88.51.120": {
+            "ifconfig": 2,
+            "uname": 2,
+            "cat": 4,
+            "ps": 4,
+            "grep": 4,
+            "ls": 2,
+            "echo": 2
+        },
+        "115.160.110.104": {
+            "ifconfig": 2,
+            "uname": 2,
+            "cat": 4,
+            "ps": 4,
+            "grep": 4,
+            "ls": 2,
+            "echo": 2
+        },
+        "112.146.19.141": {
+            "ifconfig": 2,
+            "uname": 2,
+            "cat": 4,
+            "ps": 4,
+            "grep": 4,
+            "ls": 2,
+            "echo": 2
+        },
+        "73.96.138.230": {
+            "uname": 2
+        },
+        "165.232.157.119": {
+            "uname": 4
+        },
+        "88.182.251.194": {
+            "scp": 4
+        },
+        "112.25.128.2": {
+            "ifconfig": 2,
+            "uname": 2,
+            "cat": 4,
+            "ps": 4,
+            "grep": 4,
+            "ls": 2,
+            "echo": 2
+        },
+        "195.178.110.34": {
+            "apt": 40,
+            "rm": 20,
+            "pkill": 20,
+            "mkdir": 20,
+            "curl": 40,
+            "chmod": 20,
+            "systemctl": 60,
+            "history": 20
+        },
+        "109.235.65.35": {
+            "ifconfig": 2,
+            "uname": 2,
+            "cat": 4,
+            "ps": 4,
+            "grep": 4,
+            "ls": 2,
+            "echo": 2
+        }
+    },
+    "2024-11-23": {
+        "92.255.57.132": {
+            "echo": 9
+        },
+        "154.213.189.2": {
+            "wget": 1,
+            "chmod": 2,
+            "curl": 1
+        },
+        "46.19.143.66": {
+            "apt": 12,
+            "sudo": 8,
+            "lscpu": 4,
+            "echo": 4,
+            "passwd": 4,
+            "curl": 4,
+            "free": 4
+        },
+        "45.148.10.46": {
+            "apt": 40,
+            "rm": 20,
+            "pkill": 20,
+            "mkdir": 20,
+            "curl": 40,
+            "chmod": 20,
+            "systemctl": 60,
+            "history": 20
+        },
+        "183.105.155.146": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "87.120.113.231": {
+            "uname": 5,
+            "echo": 10,
+            "SC": 5,
+            "curl": 5,
+            "if": 5,
+            "then": 5,
+            "3": 10,
+            "do": 5,
+            "break": 5,
+            "done": 5,
+            "cat": 5,
+            "sh": 10,
+            "exec": 5,
+            "else": 5,
+            "fi": 5
+        },
+        "173.184.30.33": {
+            "scp": 2
+        },
+        "218.92.0.132": {
+            "ls": 1
+        }
+    },
+    "2024-11-24": {
+        "87.120.113.231": {
+            "uname": 11,
+            "echo": 22,
+            "SC": 11,
+            "curl": 11,
+            "if": 11,
+            "then": 11,
+            "3": 22,
+            "do": 11,
+            "break": 11,
+            "done": 11,
+            "cat": 11,
+            "sh": 22,
+            "exec": 11,
+            "else": 11,
+            "fi": 11
+        },
+        "92.255.57.132": {
+            "echo": 25
+        },
+        "46.19.143.66": {
+            "apt": 36,
+            "sudo": 24,
+            "lscpu": 12,
+            "echo": 12,
+            "passwd": 12,
+            "curl": 12,
+            "free": 12
+        },
+        "37.44.238.68": {
+            "whoami": 24,
+            "cd": 120,
+            "rm": 72,
+            "wget": 24,
+            "curl": 24,
+            "chmod": 24,
+            "sh": 24
+        },
+        "218.92.0.132": {
+            "ls": 2
+        },
+        "86.59.236.63": {
+            "scp": 2
+        },
+        "197.53.163.239": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "61.58.95.162": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "111.67.193.103": {
+            "uname": 2
+        },
+        "45.148.10.203": {
+            "apt": 316,
+            "rm": 158,
+            "pkill": 158,
+            "mkdir": 158,
+            "curl": 316,
+            "chmod": 158,
+            "systemctl": 474,
+            "history": 158
+        },
+        "82.41.185.199": {
+            "mount": 1,
+            "sudo": 1,
+            "mkdir": 1,
+            "cd": 5,
+            "ls": 1
+        },
+        "84.174.124.124": {
+            "scp": 2
+        },
+        "31.30.172.21": {
+            "echo": 1
+        },
+        "84.133.33.1": {
+            "wget": 4,
+            "sh": 8,
+            "1": 2,
+            "rm": 5,
+            "curl": 1,
+            "cd": 3,
+            "tftp": 3,
+            "uname": 1,
+            "cat": 1,
+            "echo": 1
+        }
+    },
+    "2024-11-25": {
+        "92.255.57.132": {
+            "echo": 24
+        },
+        "119.195.45.207": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "192.141.148.103": {
+            "scp": 2
+        },
+        "2.37.184.11": {
+            "scp": 2
+        },
+        "218.92.0.132": {
+            "ls": 2
+        },
+        "46.19.143.66": {
+            "apt": 33,
+            "sudo": 22,
+            "lscpu": 11,
+            "echo": 11,
+            "passwd": 11,
+            "curl": 11,
+            "free": 11
+        },
+        "87.120.113.231": {
+            "uname": 13,
+            "echo": 26,
+            "SC": 13,
+            "curl": 13,
+            "if": 13,
+            "then": 13,
+            "3": 26,
+            "do": 13,
+            "break": 13,
+            "done": 13,
+            "cat": 13,
+            "sh": 26,
+            "exec": 13,
+            "else": 13,
+            "fi": 13
+        },
+        "218.52.119.127": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "37.44.238.68": {
+            "whoami": 48,
+            "cd": 240,
+            "rm": 144,
+            "wget": 48,
+            "curl": 48,
+            "chmod": 48,
+            "sh": 48
+        },
+        "222.102.21.102": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "14.162.145.33": {
+            "cd": 3,
+            "chattr": 1,
+            "lockr": 1,
+            "rm": 1,
+            "mkdir": 1,
+            "echo": 1,
+            "chmod": 1
+        },
+        "218.145.181.48": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "166.203.185.13": {
+            "uname": 2
+        },
+        "45.148.10.203": {
+            "apt": 22,
+            "lscpu": 22
+        },
+        "195.178.110.34": {
+            "apt": 8,
+            "rm": 4,
+            "pkill": 4,
+            "mkdir": 4,
+            "curl": 8,
+            "chmod": 4,
+            "systemctl": 12,
+            "history": 4
+        },
+        "94.19.104.188": {
+            "scp": 2
+        },
+        "45.148.10.46": {
+            "apt": 20,
+            "rm": 10,
+            "pkill": 10,
+            "mkdir": 10,
+            "curl": 20,
+            "chmod": 10,
+            "systemctl": 30,
+            "history": 10
+        },
+        "137.184.116.114": {
+            "uname": 1
+        },
+        "195.178.110.6": {
+            "apt": 16,
+            "rm": 8,
+            "pkill": 8,
+            "mkdir": 8,
+            "curl": 16,
+            "chmod": 8,
+            "systemctl": 24,
+            "history": 8
+        },
+        "89.47.171.62": {
+            "id": 1
+        },
+        "79.187.170.126": {
+            "id": 1
+        },
+        "182.215.66.232": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        }
+    },
+    "2024-11-26": {
+        "92.255.57.132": {
+            "echo": 25
+        },
+        "87.120.113.231": {
+            "uname": 19,
+            "echo": 38,
+            "SC": 19,
+            "curl": 19,
+            "if": 19,
+            "then": 19,
+            "3": 38,
+            "do": 19,
+            "break": 19,
+            "done": 19,
+            "cat": 19,
+            "sh": 38,
+            "exec": 19,
+            "else": 19,
+            "fi": 19
+        },
+        "46.19.143.66": {
+            "apt": 42,
+            "sudo": 28,
+            "lscpu": 14,
+            "echo": 14,
+            "passwd": 14,
+            "curl": 14,
+            "free": 14
+        },
+        "45.148.10.203": {
+            "apt": 40,
+            "lscpu": 40
+        },
+        "195.178.110.34": {
+            "apt": 24,
+            "lscpu": 24
+        },
+        "37.44.238.68": {
+            "whoami": 73,
+            "cd": 290,
+            "rm": 174,
+            "wget": 58,
+            "curl": 58,
+            "chmod": 58,
+            "sh": 58
+        },
+        "218.92.0.132": {
+            "ls": 4
+        },
+        "38.191.248.41": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "114.8.146.58": {
+            "cd": 3,
+            "chattr": 1,
+            "lockr": 1,
+            "rm": 1,
+            "mkdir": 1,
+            "echo": 1,
+            "chmod": 1
+        },
+        "59.2.248.75": {
+            "uname": 3
+        },
+        "74.225.241.180": {
+            "uname": 9
+        },
+        "45.148.10.46": {
+            "apt": 104,
+            "rm": 52,
+            "pkill": 52,
+            "mkdir": 52,
+            "curl": 104,
+            "chmod": 52,
+            "systemctl": 156,
+            "history": 52
+        },
+        "195.178.110.6": {
+            "apt": 3,
+            "lscpu": 2
+        },
+        "109.100.33.178": {
+            "scp": 2
+        },
+        "92.184.124.126": {
+            "which": 3
+        },
+        "92.184.124.77": {
+            "which": 2
+        },
+        "183.108.86.173": {
+            "uname": 7
+        },
+        "79.111.13.178": {
+            "uname": 4
+        }
+    },
+    "2024-11-27": {
+        "92.255.57.132": {
+            "echo": 24
+        },
+        "87.120.113.231": {
+            "uname": 6,
+            "echo": 12,
+            "SC": 6,
+            "curl": 6,
+            "if": 6,
+            "then": 6,
+            "3": 12,
+            "do": 6,
+            "break": 6,
+            "done": 6,
+            "cat": 6,
+            "sh": 12,
+            "exec": 6,
+            "else": 6,
+            "fi": 6
+        },
+        "46.19.143.66": {
+            "apt": 27,
+            "sudo": 18,
+            "lscpu": 9,
+            "echo": 9,
+            "passwd": 9,
+            "curl": 9,
+            "free": 9
+        },
+        "157.10.217.190": {
+            "scp": 2
+        },
+        "218.92.0.132": {
+            "ls": 4,
+            "sudo": 1,
+            "password": 1
+        },
+        "195.178.110.6": {
+            "apt": 1024,
+            "rm": 512,
+            "pkill": 512,
+            "mkdir": 512,
+            "curl": 1024,
+            "chmod": 512,
+            "systemctl": 1536,
+            "history": 512
+        },
+        "211.107.112.95": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "14.58.14.151": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "94.103.204.107": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "121.190.14.247": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "213.141.145.3": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "86.98.17.192": {
+            "scp": 2
+        },
+        "14.6.81.179": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "37.44.238.68": {
+            "whoami": 22,
+            "cd": 110,
+            "rm": 66,
+            "wget": 22,
+            "curl": 22,
+            "chmod": 22,
+            "sh": 22
+        },
+        "79.187.170.126": {
+            "id": 2
+        },
+        "77.242.234.23": {
+            "id": 1
+        },
+        "89.47.171.62": {
+            "id": 1
+        }
+    },
+    "2024-11-28": {
+        "92.255.57.132": {
+            "echo": 25
+        },
+        "46.19.143.66": {
+            "apt": 33,
+            "sudo": 22,
+            "lscpu": 11,
+            "echo": 11,
+            "passwd": 11,
+            "curl": 11,
+            "free": 11
+        },
+        "37.44.238.68": {
+            "whoami": 24,
+            "cd": 120,
+            "rm": 72,
+            "wget": 24,
+            "curl": 24,
+            "chmod": 24,
+            "sh": 24
+        },
+        "87.120.113.231": {
+            "uname": 10,
+            "echo": 20,
+            "SC": 10,
+            "curl": 10,
+            "if": 10,
+            "then": 10,
+            "3": 20,
+            "do": 10,
+            "break": 10,
+            "done": 10,
+            "cat": 10,
+            "sh": 20,
+            "exec": 10,
+            "else": 10,
+            "fi": 10
+        },
+        "218.92.0.132": {
+            "ls": 3
+        },
+        "193.77.88.253": {
+            "scp": 2
+        },
+        "62.16.245.244": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "62.146.176.25": {
+            "which": 2
+        },
+        "45.148.10.203": {
+            "apt": 54,
+            "rm": 27,
+            "pkill": 27,
+            "mkdir": 27,
+            "curl": 54,
+            "chmod": 27,
+            "systemctl": 81,
+            "history": 27
+        },
+        "114.8.146.58": {
+            "cd": 3,
+            "chattr": 1,
+            "lockr": 1,
+            "rm": 1,
+            "mkdir": 1,
+            "echo": 1,
+            "chmod": 1
+        },
+        "144.126.222.68": {
+            "uname": 1
+        },
+        "71.225.5.110": {
+            "mount": 1,
+            "sudo": 1,
+            "mkdir": 1,
+            "cd": 5,
+            "ls": 1
+        },
+        "194.45.77.38": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        }
+    },
+    "2024-11-29": {
+        "92.255.57.132": {
+            "echo": 24
+        },
+        "49.176.151.156": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "87.120.113.231": {
+            "uname": 7,
+            "echo": 14,
+            "SC": 7,
+            "curl": 7,
+            "if": 7,
+            "then": 7,
+            "3": 14,
+            "do": 7,
+            "break": 7,
+            "done": 7,
+            "cat": 7,
+            "sh": 14,
+            "exec": 7,
+            "else": 7,
+            "fi": 7
+        },
+        "46.19.143.66": {
+            "apt": 27,
+            "sudo": 18,
+            "lscpu": 9,
+            "echo": 9,
+            "passwd": 9,
+            "curl": 9,
+            "free": 9
+        },
+        "218.92.0.132": {
+            "ls": 2
+        },
+        "195.178.110.34": {
+            "apt": 53,
+            "rm": 26,
+            "pkill": 26,
+            "mkdir": 26,
+            "curl": 52,
+            "chmod": 26,
+            "systemctl": 78,
+            "history": 26
+        },
+        "195.178.110.6": {
+            "apt": 46,
+            "rm": 23,
+            "pkill": 23,
+            "mkdir": 23,
+            "curl": 46,
+            "chmod": 23,
+            "systemctl": 69,
+            "history": 23
+        },
+        "45.148.10.46": {
+            "apt": 94,
+            "rm": 47,
+            "pkill": 47,
+            "mkdir": 47,
+            "curl": 94,
+            "chmod": 47,
+            "systemctl": 141,
+            "history": 47
+        },
+        "45.148.10.203": {
+            "apt": 138,
+            "rm": 69,
+            "pkill": 69,
+            "mkdir": 69,
+            "curl": 138,
+            "chmod": 69,
+            "systemctl": 207,
+            "history": 69
+        },
+        "91.227.62.23": {
+            "whoami": 1
+        },
+        "94.141.120.99": {
+            "wget": 70,
+            "chmod": 70
+        },
+        "114.8.146.58": {
+            "cd": 3,
+            "chattr": 1,
+            "lockr": 1,
+            "rm": 1,
+            "mkdir": 1,
+            "echo": 1,
+            "chmod": 1
+        },
+        "50.123.92.130": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "202.125.139.10": {
+            "uname": 1
+        },
+        "189.110.226.120": {
+            "scp": 2
+        },
+        "108.224.92.93": {
+            "uname": 3
+        },
+        "62.16.245.244": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "141.0.99.244": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        }
+    },
+    "2024-11-30": {
+        "92.255.57.132": {
+            "echo": 23
+        },
+        "94.141.120.99": {
+            "wget": 120,
+            "chmod": 120
+        },
+        "46.19.143.66": {
+            "apt": 30,
+            "sudo": 20,
+            "lscpu": 10,
+            "echo": 10,
+            "passwd": 10,
+            "curl": 10,
+            "free": 10
+        },
+        "14.6.81.179": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "87.120.113.231": {
+            "uname": 11,
+            "echo": 22,
+            "SC": 11,
+            "curl": 11,
+            "if": 11,
+            "then": 11,
+            "3": 22,
+            "do": 11,
+            "break": 11,
+            "done": 11,
+            "cat": 11,
+            "sh": 22,
+            "exec": 11,
+            "else": 11,
+            "fi": 11
+        },
+        "195.178.110.6": {
+            "apt": 94,
+            "rm": 47,
+            "pkill": 47,
+            "mkdir": 47,
+            "curl": 94,
+            "chmod": 47,
+            "systemctl": 141,
+            "history": 47
+        },
+        "218.92.0.132": {
+            "ls": 2
+        },
+        "141.98.10.198": {
+            "apt": 25,
+            "rm": 12,
+            "pkill": 12,
+            "mkdir": 12,
+            "curl": 24,
+            "chmod": 12,
+            "systemctl": 36,
+            "history": 12
+        },
+        "203.150.180.7": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "37.44.238.68": {
+            "whoami": 36,
+            "cd": 180,
+            "rm": 108,
+            "wget": 36,
+            "curl": 36,
+            "chmod": 36,
+            "sh": 36
+        },
+        "59.103.120.51": {
+            "cd": 3,
+            "chattr": 1,
+            "lockr": 1,
+            "rm": 1,
+            "mkdir": 1,
+            "echo": 1,
+            "chmod": 1
+        },
+        "185.146.1.9": {
+            "cd": 3,
+            "chattr": 1,
+            "lockr": 1,
+            "rm": 1,
+            "mkdir": 1,
+            "echo": 1,
+            "chmod": 1
+        },
+        "187.75.22.30": {
+            "scp": 2
+        },
+        "45.148.10.203": {
+            "apt": 260,
+            "rm": 130,
+            "pkill": 130,
+            "mkdir": 130,
+            "curl": 260,
+            "chmod": 130,
+            "systemctl": 390,
+            "history": 130
+        },
+        "182.215.66.232": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "152.171.120.153": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "91.223.28.50": {
+            "uname": 1
+        }
+    },
+    "2024-12-01": {
+        "92.255.57.132": {
+            "echo": 6
+        },
+        "172.248.165.207": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "87.120.113.231": {
+            "uname": 8,
+            "echo": 16,
+            "SC": 8,
+            "curl": 8,
+            "if": 8,
+            "then": 8,
+            "3": 16,
+            "do": 8,
+            "break": 8,
+            "done": 8,
+            "cat": 8,
+            "sh": 16,
+            "exec": 8,
+            "else": 8,
+            "fi": 8
+        },
+        "14.39.132.209": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "109.100.33.178": {
+            "scp": 2
+        },
+        "195.178.110.34": {
+            "apt": 88,
+            "rm": 44,
+            "pkill": 44,
+            "mkdir": 44,
+            "curl": 88,
+            "chmod": 44,
+            "systemctl": 132,
+            "history": 44
+        },
+        "128.199.111.126": {
+            "cd": 3,
+            "chattr": 1,
+            "lockr": 1,
+            "rm": 1,
+            "mkdir": 1,
+            "echo": 1,
+            "chmod": 1
+        },
+        "218.92.0.132": {
+            "ls": 2
+        },
+        "213.64.179.221": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "79.137.202.88": {
+            "uname": 3
+        },
+        "178.128.161.183": {
+            "uname": 1
+        },
+        "218.157.163.203": {
+            "scp": 2
+        },
+        "91.227.62.22": {
+            "cd": 9,
+            "wget": 9,
+            "curl": 9,
+            "chmod": 27,
+            "sh": 36,
+            "tftp": 18,
+            "ftpget": 9,
+            "rm": 18
+        },
+        "45.148.10.203": {
+            "apt": 1028,
+            "rm": 514,
+            "pkill": 514,
+            "mkdir": 514,
+            "curl": 1028,
+            "chmod": 514,
+            "systemctl": 1542,
+            "history": 514
+        },
+        "154.213.187.182": {
+            "cd": 24,
+            "rm": 6,
+            "wget": 6,
+            "chmod": 6
+        },
+        "141.98.10.198": {
+            "apt": 12,
+            "rm": 6,
+            "pkill": 6,
+            "mkdir": 6,
+            "curl": 12,
+            "chmod": 6,
+            "systemctl": 18,
+            "history": 6
+        }
+    },
+    "2024-12-03": {
+        "87.120.113.231": {
+            "uname": 1,
+            "echo": 2,
+            "SC": 1,
+            "curl": 1,
+            "if": 1,
+            "then": 1,
+            "3": 2,
+            "do": 1,
+            "break": 1,
+            "done": 1,
+            "cat": 1,
+            "sh": 2,
+            "exec": 1,
+            "else": 1,
+            "fi": 1
+        },
+        "218.92.0.132": {
+            "ls": 1
+        },
+        "124.54.248.226": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "140.245.32.211": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "24.119.20.99": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        }
+    },
+    "2024-12-04": {
+        "122.32.230.169": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "2.205.16.85": {
+            "scp": 2
+        },
+        "195.178.110.6": {
+            "apt": 638,
+            "rm": 319,
+            "pkill": 319,
+            "mkdir": 319,
+            "curl": 638,
+            "chmod": 319,
+            "systemctl": 957,
+            "history": 319
+        },
+        "61.41.151.37": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "87.120.113.231": {
+            "uname": 6,
+            "echo": 12,
+            "SC": 6,
+            "curl": 6,
+            "if": 6,
+            "then": 6,
+            "3": 12,
+            "do": 6,
+            "break": 6,
+            "done": 6,
+            "cat": 6,
+            "sh": 12,
+            "exec": 6,
+            "else": 6,
+            "fi": 6
+        },
+        "115.142.139.142": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "91.168.119.110": {
+            "scp": 2
+        },
+        "211.40.169.147": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "211.35.179.170": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.33.90.151": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "116.38.107.243": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "180.226.74.2": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "58.149.97.2": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "116.38.82.164": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "115.141.226.164": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "122.41.239.239": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "58.75.228.148": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "180.226.237.194": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "124.54.253.11": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "49.160.126.210": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "180.225.156.159": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "180.227.48.196": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "182.215.66.232": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "49.160.223.245": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        }
+    },
+    "2024-12-05": {
+        "210.245.54.214": {
+            "scp": 2
+        },
+        "87.120.113.231": {
+            "uname": 3,
+            "echo": 6,
+            "SC": 3,
+            "curl": 3,
+            "if": 3,
+            "then": 3,
+            "3": 6,
+            "do": 3,
+            "break": 3,
+            "done": 3,
+            "cat": 3,
+            "sh": 6,
+            "exec": 3,
+            "else": 3,
+            "fi": 3
+        },
+        "119.68.247.19": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "211.60.81.170": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "218.92.0.132": {
+            "ls": 1
+        },
+        "45.148.10.203": {
+            "apt": 54,
+            "rm": 27,
+            "pkill": 27,
+            "mkdir": 27,
+            "curl": 54,
+            "chmod": 27,
+            "systemctl": 81,
+            "history": 27
+        },
+        "49.160.126.2": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "125.187.228.175": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "154.213.187.182": {
+            "cd": 4,
+            "rm": 12,
+            "wget": 6,
+            "chmod": 12,
+            "curl": 6
+        },
+        "211.250.243.240": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "119.68.202.197": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "180.225.187.217": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "116.38.107.242": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "119.68.123.115": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "50.190.140.117": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "14.6.81.179": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "112.159.195.67": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "45.148.10.46": {
+            "apt": 67,
+            "rm": 33,
+            "pkill": 33,
+            "mkdir": 33,
+            "curl": 66,
+            "chmod": 33,
+            "systemctl": 99,
+            "history": 33
+        },
+        "49.160.235.3": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "195.178.110.34": {
+            "apt": 12,
+            "rm": 6,
+            "pkill": 6,
+            "mkdir": 6,
+            "curl": 12,
+            "chmod": 6,
+            "systemctl": 18,
+            "history": 6
+        }
+    },
+    "2024-11-22": {
+        "45.148.10.46": {
+            "apt": 84,
+            "rm": 42,
+            "pkill": 42,
+            "mkdir": 42,
+            "curl": 84,
+            "chmod": 42,
+            "systemctl": 126,
+            "history": 42
+        },
+        "20.197.38.59": {
+            "ifconfig": 2,
+            "uname": 2,
+            "cat": 4,
+            "ps": 4,
+            "grep": 4,
+            "ls": 2,
+            "echo": 2
+        },
+        "195.178.110.6": {
+            "apt": 68,
+            "rm": 34,
+            "pkill": 34,
+            "mkdir": 34,
+            "curl": 68,
+            "chmod": 34,
+            "systemctl": 102,
+            "history": 34
+        },
+        "46.19.143.66": {
+            "apt": 12,
+            "sudo": 8,
+            "lscpu": 4,
+            "echo": 4,
+            "passwd": 4,
+            "curl": 4,
+            "free": 4
+        },
+        "37.44.238.68": {
+            "whoami": 46,
+            "cd": 230,
+            "rm": 138,
+            "wget": 46,
+            "curl": 46,
+            "chmod": 46,
+            "sh": 46
+        }
+    },
+    "2024-12-02": {
+        "195.178.110.6": {
+            "apt": 454,
+            "rm": 227,
+            "pkill": 227,
+            "mkdir": 227,
+            "curl": 454,
+            "chmod": 227,
+            "systemctl": 681,
+            "history": 227
+        },
+        "182.215.66.232": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "87.120.113.231": {
+            "uname": 2,
+            "echo": 4,
+            "SC": 2,
+            "curl": 2,
+            "if": 2,
+            "then": 2,
+            "3": 4,
+            "do": 2,
+            "break": 2,
+            "done": 2,
+            "cat": 2,
+            "sh": 4,
+            "exec": 2,
+            "else": 2,
+            "fi": 2
+        }
+    },
+    "2024-11-17": {
+        "80.238.125.174": {
+            "ipconfig": 1,
+            "logtest": 1,
+            "whoami": 1,
+            "get": 2
+        },
+        "68.78.33.105": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "46.19.143.66": {
+            "apt": 6,
+            "sudo": 4,
+            "lscpu": 2,
+            "echo": 2,
+            "passwd": 2,
+            "curl": 2,
+            "free": 2
+        },
+        "222.118.167.160": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "195.178.110.6": {
+            "apt": 30,
+            "rm": 15,
+            "pkill": 15,
+            "mkdir": 15,
+            "curl": 30,
+            "chmod": 15,
+            "systemctl": 45,
+            "history": 15
+        },
+        "87.120.113.231": {
+            "uname": 2,
+            "echo": 4,
+            "SC": 2,
+            "curl": 2,
+            "if": 2,
+            "then": 2,
+            "3": 4,
+            "do": 2,
+            "break": 2,
+            "done": 2,
+            "cat": 2,
+            "sh": 4,
+            "exec": 2,
+            "else": 2,
+            "fi": 2
+        },
+        "157.230.116.150": {
+            "uname": 2,
+            "nproc": 1,
+            "uptime": 1,
+            "nvidia": 1,
+            "grep": 3,
+            "lspci": 1,
+            "display": 1
+        },
+        "172.233.96.42": {
+            "whoami": 1
+        },
+        "141.98.11.81": {
+            "apt": 314,
+            "rm": 157,
+            "pkill": 157,
+            "mkdir": 157,
+            "curl": 314,
+            "chmod": 157,
+            "systemctl": 471,
+            "history": 157
+        }
+    },
+    "2024-11-18": {
+        "157.230.116.150": {
+            "uname": 90,
+            "nproc": 45,
+            "uptime": 45,
+            "nvidia": 45,
+            "grep": 135,
+            "lspci": 45,
+            "display": 45
+        },
+        "87.120.113.231": {
+            "uname": 6,
+            "echo": 12,
+            "SC": 6,
+            "curl": 6,
+            "if": 6,
+            "then": 6,
+            "3": 12,
+            "do": 6,
+            "break": 6,
+            "done": 6,
+            "cat": 6,
+            "sh": 12,
+            "exec": 6,
+            "else": 6,
+            "fi": 6
+        },
+        "218.92.0.132": {
+            "ls": 1
+        },
+        "46.19.143.66": {
+            "apt": 15,
+            "sudo": 10,
+            "lscpu": 5,
+            "echo": 5,
+            "passwd": 5,
+            "curl": 5,
+            "free": 5
+        },
+        "37.44.238.68": {
+            "whoami": 34,
+            "cd": 165,
+            "rm": 99,
+            "wget": 33,
+            "curl": 33,
+            "chmod": 33,
+            "sh": 33
+        },
+        "78.73.143.53": {
+            "wget": 4,
+            "sh": 8,
+            "1": 2,
+            "rm": 5,
+            "curl": 1,
+            "cd": 3,
+            "tftp": 3,
+            "uname": 1,
+            "cat": 1,
+            "echo": 1
+        },
+        "79.137.207.254": {
+            "uname": 1
+        },
+        "45.148.10.46": {
+            "apt": 34,
+            "rm": 17,
+            "pkill": 17,
+            "mkdir": 17,
+            "curl": 34,
+            "chmod": 17,
+            "systemctl": 51,
+            "history": 17
+        },
+        "203.206.203.50": {
+            "ifconfig": 1,
+            "uname": 1,
+            "cat": 2,
+            "ps": 2,
+            "grep": 2,
+            "ls": 1,
+            "echo": 1
+        },
+        "63.143.94.171": {
+            "scp": 2
+        },
+        "195.178.110.6": {
+            "apt": 92,
+            "rm": 46,
+            "pkill": 46,
+            "mkdir": 46,
+            "curl": 92,
+            "chmod": 46,
+            "systemctl": 138,
+            "history": 46
+        }
+    },
+    "2024-12-13": {
+        "45.148.10.203": {
+            "apt": 26,
+            "rm": 13,
+            "pkill": 13,
+            "mkdir": 13,
+            "curl": 26,
+            "chmod": 13,
+            "systemctl": 39,
+            "history": 13
+        },
+        "185.225.200.154": {
+            "uname": 1
+        },
+        "87.120.113.231": {
+            "uname": 5,
+            "echo": 10,
+            "SC": 5,
+            "curl": 5,
+            "if": 5,
+            "then": 5,
+            "3": 10,
+            "do": 5,
+            "break": 5,
+            "done": 5,
+            "cat": 5,
+            "sh": 10,
+            "exec": 5,
+            "else": 5,
+            "fi": 5
+        },
+        "46.19.143.66": {
+            "apt": 6,
+            "sudo": 4,
+            "lscpu": 2,
+            "echo": 2,
+            "passwd": 2,
+            "curl": 2,
+            "free": 2
+        },
+        "37.44.238.68": {
+            "whoami": 22,
+            "cd": 110,
+            "rm": 66,
+            "wget": 22,
+            "curl": 22,
+            "chmod": 22,
+            "sh": 22
+        },
+        "85.218.33.240": {
+            "wget": 4,
+            "sh": 8,
+            "1": 2,
+            "rm": 5,
+            "curl": 1,
+            "cd": 3,
+            "tftp": 3,
+            "uname": 1,
+            "cat": 1,
+            "echo": 1
+        }
+    },
+    "2024-12-14": {
+        "46.19.143.66": {
+            "apt": 3,
+            "sudo": 2,
+            "lscpu": 1,
+            "echo": 1,
+            "passwd": 1,
+            "curl": 1,
+            "free": 1
+        },
+        "218.92.0.132": {
+            "ls": 1
+        },
+        "45.148.10.203": {
+            "apt": 2,
+            "rm": 1,
+            "pkill": 1,
+            "mkdir": 1,
+            "curl": 2,
+            "chmod": 1,
+            "systemctl": 3,
+            "history": 1
+        },
+        "94.19.104.188": {
+            "scp": 2
+        }
+    }
+}
